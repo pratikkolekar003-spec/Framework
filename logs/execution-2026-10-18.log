@@ -1,0 +1,2391 @@
+2026-10-18 15:27:53 [INFO] logger...
+2026-10-18 15:27:53 [INFO] config...
+2026-10-18 15:27:53 [INFO] BrowserFixture...
+2026-10-18 15:27:54 [INFO] PageFixture...
+2026-10-18 15:27:54 [INFO] BrowserManager...
+2026-10-18 15:27:54 [INFO] TestRailManager...
+2026-10-18 15:27:55 [INFO] logger...
+2026-10-18 15:27:55 [INFO] config...
+2026-10-18 15:27:55 [INFO] BrowserFixture...
+2026-10-18 15:27:55 [INFO] PageFixture...
+2026-10-18 15:27:55 [INFO] BrowserManager...
+2026-10-18 15:27:55 [INFO] TestRailManager...
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] Before Scenario Started
+2026-10-18 15:27:55 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] Execution Type : Local
+2026-10-18 15:27:55 [INFO] Read TestRail : false
+2026-10-18 15:27:55 [INFO] Update TestRail : false
+2026-10-18 15:27:55 [INFO] Update Lambda : false
+2026-10-18 15:27:55 [INFO] Test Case Id : 5948
+2026-10-18 15:27:55 [INFO] Browser : chromium
+2026-10-18 15:27:55 [ERROR] Unable to launch browser : browserType.launch: Executable doesn't exist at C:\Users\user\AppData\Local\ms-playwright\chromium-1228\chrome-win64\chrome.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     npx playwright install                                 ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] After Scenario Started
+2026-10-18 15:27:55 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [ERROR] Unexpected Error in After Hook : TypeError: Cannot read properties of null (reading 'screenshot')
+    at CustomWorld.<anonymous> (C:\Framework\Framework-main\features\hooks\hooks.js:186:45)
+    at Object.run (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\user_code_runner.js:24:27)
+    at C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\step_runner.js:31:114
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:65:14)
+    at runInTestCaseScope (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\scope\test_case_scope.js:9:26)
+    at Object.run (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\step_runner.js:31:63)
+    at async TestCaseRunner.invokeStep (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:90:16)
+    at async TestCaseRunner.runHook (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:203:28)
+    at async C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:174:28
+    at async TestCaseRunner.aroundTestStep (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:118:32)
+2026-10-18 15:27:55 [INFO] Browser Closed
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] After Scenario Completed
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] Before Scenario Started
+2026-10-18 15:27:55 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] Execution Type : Local
+2026-10-18 15:27:55 [INFO] Read TestRail : false
+2026-10-18 15:27:55 [INFO] Update TestRail : false
+2026-10-18 15:27:55 [INFO] Update Lambda : false
+2026-10-18 15:27:55 [INFO] Test Case Id : 5948
+2026-10-18 15:27:55 [INFO] Browser : chromium
+2026-10-18 15:27:55 [ERROR] Unable to launch browser : browserType.launch: Executable doesn't exist at C:\Users\user\AppData\Local\ms-playwright\chromium-1228\chrome-win64\chrome.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     npx playwright install                                 ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] After Scenario Started
+2026-10-18 15:27:55 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [ERROR] Unexpected Error in After Hook : TypeError: Cannot read properties of null (reading 'screenshot')
+    at CustomWorld.<anonymous> (C:\Framework\Framework-main\features\hooks\hooks.js:186:45)
+    at Object.run (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\user_code_runner.js:24:27)
+    at C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\step_runner.js:31:114
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:65:14)
+    at runInTestCaseScope (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\scope\test_case_scope.js:9:26)
+    at Object.run (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\step_runner.js:31:63)
+    at async TestCaseRunner.invokeStep (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:90:16)
+    at async TestCaseRunner.runHook (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:203:28)
+    at async C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:174:28
+    at async TestCaseRunner.aroundTestStep (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:118:32)
+2026-10-18 15:27:55 [INFO] Browser Closed
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] After Scenario Completed
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] Before Scenario Started
+2026-10-18 15:27:55 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] Execution Type : Local
+2026-10-18 15:27:55 [INFO] Read TestRail : false
+2026-10-18 15:27:55 [INFO] Update TestRail : false
+2026-10-18 15:27:55 [INFO] Update Lambda : false
+2026-10-18 15:27:55 [INFO] Test Case Id : 5949
+2026-10-18 15:27:55 [INFO] Browser : chromium
+2026-10-18 15:27:55 [ERROR] Unable to launch browser : browserType.launch: Executable doesn't exist at C:\Users\user\AppData\Local\ms-playwright\chromium-1228\chrome-win64\chrome.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     npx playwright install                                 ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] After Scenario Started
+2026-10-18 15:27:55 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [ERROR] Unexpected Error in After Hook : TypeError: Cannot read properties of null (reading 'screenshot')
+    at CustomWorld.<anonymous> (C:\Framework\Framework-main\features\hooks\hooks.js:186:45)
+    at Object.run (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\user_code_runner.js:24:27)
+    at C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\step_runner.js:31:114
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:65:14)
+    at runInTestCaseScope (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\scope\test_case_scope.js:9:26)
+    at Object.run (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\step_runner.js:31:63)
+    at async TestCaseRunner.invokeStep (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:90:16)
+    at async TestCaseRunner.runHook (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:203:28)
+    at async C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:174:28
+    at async TestCaseRunner.aroundTestStep (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:118:32)
+2026-10-18 15:27:55 [INFO] Browser Closed
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] After Scenario Completed
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] Before Scenario Started
+2026-10-18 15:27:55 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] Execution Type : Local
+2026-10-18 15:27:55 [INFO] Read TestRail : false
+2026-10-18 15:27:55 [INFO] Update TestRail : false
+2026-10-18 15:27:55 [INFO] Update Lambda : false
+2026-10-18 15:27:55 [INFO] Test Case Id : 5949
+2026-10-18 15:27:55 [INFO] Browser : chromium
+2026-10-18 15:27:55 [ERROR] Unable to launch browser : browserType.launch: Executable doesn't exist at C:\Users\user\AppData\Local\ms-playwright\chromium-1228\chrome-win64\chrome.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     npx playwright install                                 ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] After Scenario Started
+2026-10-18 15:27:55 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [ERROR] Unexpected Error in After Hook : TypeError: Cannot read properties of null (reading 'screenshot')
+    at CustomWorld.<anonymous> (C:\Framework\Framework-main\features\hooks\hooks.js:186:45)
+    at Object.run (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\user_code_runner.js:24:27)
+    at C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\step_runner.js:31:114
+    at AsyncLocalStorage.run (node:internal/async_local_storage/async_context_frame:65:14)
+    at runInTestCaseScope (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\scope\test_case_scope.js:9:26)
+    at Object.run (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\step_runner.js:31:63)
+    at async TestCaseRunner.invokeStep (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:90:16)
+    at async TestCaseRunner.runHook (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:203:28)
+    at async C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:174:28
+    at async TestCaseRunner.aroundTestStep (C:\Framework\Framework-main\node_modules\@cucumber\cucumber\lib\runtime\test_case_runner.js:118:32)
+2026-10-18 15:27:55 [INFO] Browser Closed
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:27:55 [INFO] After Scenario Completed
+2026-10-18 15:27:55 [INFO] =================================================
+2026-10-18 15:35:17 [INFO] logger...
+2026-10-18 15:35:17 [INFO] config...
+2026-10-18 15:35:17 [INFO] BrowserFixture...
+2026-10-18 15:35:17 [INFO] PageFixture...
+2026-10-18 15:35:17 [INFO] BrowserManager...
+2026-10-18 15:35:17 [INFO] TestRailManager...
+2026-10-18 15:35:19 [INFO] logger...
+2026-10-18 15:35:19 [INFO] config...
+2026-10-18 15:35:19 [INFO] BrowserFixture...
+2026-10-18 15:35:19 [INFO] PageFixture...
+2026-10-18 15:35:19 [INFO] BrowserManager...
+2026-10-18 15:35:19 [INFO] TestRailManager...
+2026-10-18 15:35:19 [INFO] =================================================
+2026-10-18 15:35:19 [INFO] Before Scenario Started
+2026-10-18 15:35:19 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:35:19 [INFO] =================================================
+2026-10-18 15:35:19 [INFO] Execution Type : Local
+2026-10-18 15:35:19 [INFO] Read TestRail : false
+2026-10-18 15:35:19 [INFO] Update TestRail : false
+2026-10-18 15:35:19 [INFO] Update Lambda : false
+2026-10-18 15:35:19 [INFO] Test Case Id : 5948
+2026-10-18 15:35:19 [INFO] Browser : chromium
+2026-10-18 15:35:22 [INFO] Browser launched successfully.
+2026-10-18 15:35:22 [INFO] Tracing Started
+2026-10-18 15:35:22 [INFO] =================================================
+2026-10-18 15:35:22 [INFO] Before Scenario Completed
+2026-10-18 15:35:22 [INFO] =================================================
+2026-10-18 15:35:23 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 15:35:24 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 15:35:24 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 15:35:26 [INFO] =================================================
+2026-10-18 15:35:26 [INFO] After Scenario Started
+2026-10-18 15:35:26 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:35:26 [INFO] =================================================
+2026-10-18 15:35:27 [INFO] Trace Saved
+2026-10-18 15:35:28 [INFO] Browser Closed
+2026-10-18 15:35:28 [INFO] =================================================
+2026-10-18 15:35:28 [INFO] After Scenario Completed
+2026-10-18 15:35:28 [INFO] =================================================
+2026-10-18 15:35:28 [INFO] =================================================
+2026-10-18 15:35:28 [INFO] Before Scenario Started
+2026-10-18 15:35:28 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:35:28 [INFO] =================================================
+2026-10-18 15:35:28 [INFO] Execution Type : Local
+2026-10-18 15:35:28 [INFO] Read TestRail : false
+2026-10-18 15:35:28 [INFO] Update TestRail : false
+2026-10-18 15:35:28 [INFO] Update Lambda : false
+2026-10-18 15:35:28 [INFO] Test Case Id : 5948
+2026-10-18 15:35:28 [INFO] Browser : chromium
+2026-10-18 15:35:29 [INFO] Browser launched successfully.
+2026-10-18 15:35:29 [INFO] Tracing Started
+2026-10-18 15:35:29 [INFO] =================================================
+2026-10-18 15:35:29 [INFO] Before Scenario Completed
+2026-10-18 15:35:29 [INFO] =================================================
+2026-10-18 15:35:30 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 15:35:31 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 15:35:31 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 15:35:33 [INFO] =================================================
+2026-10-18 15:35:33 [INFO] After Scenario Started
+2026-10-18 15:35:33 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:35:33 [INFO] =================================================
+2026-10-18 15:35:34 [INFO] Trace Saved
+2026-10-18 15:35:35 [INFO] Browser Closed
+2026-10-18 15:35:35 [INFO] =================================================
+2026-10-18 15:35:35 [INFO] After Scenario Completed
+2026-10-18 15:35:35 [INFO] =================================================
+2026-10-18 15:35:35 [INFO] =================================================
+2026-10-18 15:35:35 [INFO] Before Scenario Started
+2026-10-18 15:35:35 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:35:35 [INFO] =================================================
+2026-10-18 15:35:35 [INFO] Execution Type : Local
+2026-10-18 15:35:35 [INFO] Read TestRail : false
+2026-10-18 15:35:35 [INFO] Update TestRail : false
+2026-10-18 15:35:35 [INFO] Update Lambda : false
+2026-10-18 15:35:35 [INFO] Test Case Id : 5949
+2026-10-18 15:35:35 [INFO] Browser : chromium
+2026-10-18 15:35:37 [INFO] Browser launched successfully.
+2026-10-18 15:35:37 [INFO] Tracing Started
+2026-10-18 15:35:37 [INFO] =================================================
+2026-10-18 15:35:37 [INFO] Before Scenario Completed
+2026-10-18 15:35:37 [INFO] =================================================
+2026-10-18 15:35:38 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 15:35:38 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 15:35:38 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 15:35:41 [INFO] =================================================
+2026-10-18 15:35:41 [INFO] After Scenario Started
+2026-10-18 15:35:41 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:35:41 [INFO] =================================================
+2026-10-18 15:35:41 [INFO] Trace Saved
+2026-10-18 15:35:43 [INFO] Browser Closed
+2026-10-18 15:35:43 [INFO] =================================================
+2026-10-18 15:35:43 [INFO] After Scenario Completed
+2026-10-18 15:35:43 [INFO] =================================================
+2026-10-18 15:35:43 [INFO] =================================================
+2026-10-18 15:35:43 [INFO] Before Scenario Started
+2026-10-18 15:35:43 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:35:43 [INFO] =================================================
+2026-10-18 15:35:43 [INFO] Execution Type : Local
+2026-10-18 15:35:43 [INFO] Read TestRail : false
+2026-10-18 15:35:43 [INFO] Update TestRail : false
+2026-10-18 15:35:43 [INFO] Update Lambda : false
+2026-10-18 15:35:43 [INFO] Test Case Id : 5949
+2026-10-18 15:35:43 [INFO] Browser : chromium
+2026-10-18 15:35:44 [INFO] Browser launched successfully.
+2026-10-18 15:35:44 [INFO] Tracing Started
+2026-10-18 15:35:44 [INFO] =================================================
+2026-10-18 15:35:44 [INFO] Before Scenario Completed
+2026-10-18 15:35:44 [INFO] =================================================
+2026-10-18 15:35:45 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 15:35:46 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 15:35:46 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 15:35:48 [INFO] =================================================
+2026-10-18 15:35:48 [INFO] After Scenario Started
+2026-10-18 15:35:48 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:35:48 [INFO] =================================================
+2026-10-18 15:35:49 [INFO] Trace Saved
+2026-10-18 15:35:57 [INFO] Browser Closed
+2026-10-18 15:35:57 [INFO] =================================================
+2026-10-18 15:35:57 [INFO] After Scenario Completed
+2026-10-18 15:35:57 [INFO] =================================================
+2026-10-18 15:35:13 [INFO] ======================================
+2026-10-18 15:35:13 [INFO]  Playwright Enterprise Test Runner
+2026-10-18 15:35:13 [INFO] ======================================
+2026-10-18 15:35:13 [INFO] Environment : qa
+2026-10-18 15:35:13 [INFO] Browser    : chromium
+2026-10-18 15:35:13 [INFO] Parallel   : 1
+2026-10-18 15:35:13 [INFO] Tag        : @C5948 or @C5949 or @C5950
+2026-10-18 15:35:13 [INFO] --------------------------------------
+2026-10-18 15:35:13 [INFO] Command : npx cucumber-js --tags "@C5948 or @C5949 or @C5950" --parallel 1
+2026-10-18 15:35:13 [INFO] ======================================
+2026-10-18 15:35:13 [INFO] ===============In Test runner before ExecSync=======================
+2026-10-18 15:45:55 [INFO] logger...
+2026-10-18 15:45:55 [INFO] config...
+2026-10-18 15:45:55 [INFO] BrowserFixture...
+2026-10-18 15:45:55 [INFO] PageFixture...
+2026-10-18 15:45:55 [INFO] BrowserManager...
+2026-10-18 15:45:55 [INFO] TestRailManager...
+2026-10-18 15:45:57 [INFO] logger...
+2026-10-18 15:45:57 [INFO] config...
+2026-10-18 15:45:57 [INFO] BrowserFixture...
+2026-10-18 15:45:57 [INFO] PageFixture...
+2026-10-18 15:45:57 [INFO] BrowserManager...
+2026-10-18 15:45:57 [INFO] TestRailManager...
+2026-10-18 15:45:57 [INFO] =================================================
+2026-10-18 15:45:57 [INFO] Before Scenario Started
+2026-10-18 15:45:57 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:45:57 [INFO] =================================================
+2026-10-18 15:45:57 [INFO] Execution Type : Local
+2026-10-18 15:45:57 [INFO] Read TestRail : false
+2026-10-18 15:45:57 [INFO] Update TestRail : false
+2026-10-18 15:45:57 [INFO] Update Lambda : false
+2026-10-18 15:45:57 [INFO] Test Case Id : 5948
+2026-10-18 15:45:57 [INFO] Browser : chromium
+2026-10-18 15:45:58 [INFO] Browser launched successfully.
+2026-10-18 15:45:58 [INFO] Tracing Started
+2026-10-18 15:45:58 [INFO] =================================================
+2026-10-18 15:45:58 [INFO] Before Scenario Completed
+2026-10-18 15:45:58 [INFO] =================================================
+2026-10-18 15:45:59 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 15:46:00 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 15:46:00 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 15:46:00 [INFO] =================================================
+2026-10-18 15:46:00 [INFO] After Scenario Started
+2026-10-18 15:46:00 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:46:00 [INFO] =================================================
+2026-10-18 15:46:00 [ERROR] Screenshot Captured : Verify_the_login_functionality_of_the_application_using_valid_credential.png
+2026-10-18 15:46:01 [INFO] Trace Saved
+2026-10-18 15:46:02 [INFO] Browser Closed
+2026-10-18 15:46:02 [INFO] =================================================
+2026-10-18 15:46:02 [INFO] After Scenario Completed
+2026-10-18 15:46:02 [INFO] =================================================
+2026-10-18 15:46:02 [INFO] =================================================
+2026-10-18 15:46:02 [INFO] Before Scenario Started
+2026-10-18 15:46:02 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:46:02 [INFO] =================================================
+2026-10-18 15:46:02 [INFO] Execution Type : Local
+2026-10-18 15:46:02 [INFO] Read TestRail : false
+2026-10-18 15:46:02 [INFO] Update TestRail : false
+2026-10-18 15:46:02 [INFO] Update Lambda : false
+2026-10-18 15:46:02 [INFO] Test Case Id : 5949
+2026-10-18 15:46:02 [INFO] Browser : chromium
+2026-10-18 15:46:03 [INFO] Browser launched successfully.
+2026-10-18 15:46:03 [INFO] Tracing Started
+2026-10-18 15:46:03 [INFO] =================================================
+2026-10-18 15:46:03 [INFO] Before Scenario Completed
+2026-10-18 15:46:03 [INFO] =================================================
+2026-10-18 15:46:04 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 15:46:04 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 15:46:04 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 15:46:05 [INFO] =================================================
+2026-10-18 15:46:05 [INFO] After Scenario Started
+2026-10-18 15:46:05 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:46:05 [INFO] =================================================
+2026-10-18 15:46:05 [ERROR] Screenshot Captured : Verify_the_login_functionality_of_the_application_using_valid_credential.png
+2026-10-18 15:46:05 [INFO] Trace Saved
+2026-10-18 15:46:07 [INFO] Browser Closed
+2026-10-18 15:46:07 [INFO] =================================================
+2026-10-18 15:46:07 [INFO] After Scenario Completed
+2026-10-18 15:46:07 [INFO] =================================================
+2026-10-18 15:46:07 [INFO] =================================================
+2026-10-18 15:46:07 [INFO] Before Scenario Started
+2026-10-18 15:46:07 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:46:07 [INFO] =================================================
+2026-10-18 15:46:07 [INFO] Execution Type : Local
+2026-10-18 15:46:07 [INFO] Read TestRail : false
+2026-10-18 15:46:07 [INFO] Update TestRail : false
+2026-10-18 15:46:07 [INFO] Update Lambda : false
+2026-10-18 15:46:07 [INFO] Test Case Id : 5949
+2026-10-18 15:46:07 [INFO] Browser : chromium
+2026-10-18 15:46:08 [INFO] Browser launched successfully.
+2026-10-18 15:46:08 [INFO] Tracing Started
+2026-10-18 15:46:08 [INFO] =================================================
+2026-10-18 15:46:08 [INFO] Before Scenario Completed
+2026-10-18 15:46:08 [INFO] =================================================
+2026-10-18 15:46:09 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 15:46:09 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 15:46:10 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 15:46:10 [INFO] =================================================
+2026-10-18 15:46:10 [INFO] After Scenario Started
+2026-10-18 15:46:10 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:46:10 [INFO] =================================================
+2026-10-18 15:46:10 [ERROR] Screenshot Captured : Verify_the_login_functionality_of_the_application_using_valid_credential.png
+2026-10-18 15:46:10 [INFO] Trace Saved
+2026-10-18 15:46:11 [INFO] Browser Closed
+2026-10-18 15:46:11 [INFO] =================================================
+2026-10-18 15:46:11 [INFO] After Scenario Completed
+2026-10-18 15:46:11 [INFO] =================================================
+2026-10-18 15:51:27 [INFO] logger...
+2026-10-18 15:51:27 [INFO] config...
+2026-10-18 15:51:27 [INFO] BrowserFixture...
+2026-10-18 15:51:27 [INFO] PageFixture...
+2026-10-18 15:51:27 [INFO] BrowserManager...
+2026-10-18 15:51:27 [INFO] TestRailManager...
+2026-10-18 15:51:29 [INFO] logger...
+2026-10-18 15:51:29 [INFO] config...
+2026-10-18 15:51:29 [INFO] BrowserFixture...
+2026-10-18 15:51:29 [INFO] PageFixture...
+2026-10-18 15:51:29 [INFO] BrowserManager...
+2026-10-18 15:51:29 [INFO] TestRailManager...
+2026-10-18 15:51:29 [INFO] =================================================
+2026-10-18 15:51:29 [INFO] Before Scenario Started
+2026-10-18 15:51:29 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:51:29 [INFO] =================================================
+2026-10-18 15:51:29 [INFO] Execution Type : Local
+2026-10-18 15:51:29 [INFO] Read TestRail : false
+2026-10-18 15:51:29 [INFO] Update TestRail : false
+2026-10-18 15:51:29 [INFO] Update Lambda : false
+2026-10-18 15:51:29 [INFO] Test Case Id : 5948
+2026-10-18 15:51:29 [INFO] Browser : chromium
+2026-10-18 15:51:30 [INFO] Browser launched successfully.
+2026-10-18 15:51:30 [INFO] Tracing Started
+2026-10-18 15:51:30 [INFO] =================================================
+2026-10-18 15:51:30 [INFO] Before Scenario Completed
+2026-10-18 15:51:30 [INFO] =================================================
+2026-10-18 15:51:31 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 15:51:32 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 15:51:32 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 15:51:34 [INFO] =================================================
+2026-10-18 15:51:34 [INFO] After Scenario Started
+2026-10-18 15:51:34 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:51:34 [INFO] =================================================
+2026-10-18 15:51:35 [INFO] Trace Saved
+2026-10-18 15:51:36 [INFO] Browser Closed
+2026-10-18 15:51:36 [INFO] =================================================
+2026-10-18 15:51:36 [INFO] After Scenario Completed
+2026-10-18 15:51:36 [INFO] =================================================
+2026-10-18 15:51:36 [INFO] =================================================
+2026-10-18 15:51:36 [INFO] Before Scenario Started
+2026-10-18 15:51:36 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:51:36 [INFO] =================================================
+2026-10-18 15:51:36 [INFO] Execution Type : Local
+2026-10-18 15:51:36 [INFO] Read TestRail : false
+2026-10-18 15:51:36 [INFO] Update TestRail : false
+2026-10-18 15:51:36 [INFO] Update Lambda : false
+2026-10-18 15:51:36 [INFO] Test Case Id : 5949
+2026-10-18 15:51:36 [INFO] Browser : chromium
+2026-10-18 15:51:37 [INFO] Browser launched successfully.
+2026-10-18 15:51:37 [INFO] Tracing Started
+2026-10-18 15:51:37 [INFO] =================================================
+2026-10-18 15:51:37 [INFO] Before Scenario Completed
+2026-10-18 15:51:37 [INFO] =================================================
+2026-10-18 15:51:38 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 15:51:38 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 15:51:38 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 15:51:41 [INFO] =================================================
+2026-10-18 15:51:41 [INFO] After Scenario Started
+2026-10-18 15:51:41 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:51:41 [INFO] =================================================
+2026-10-18 15:51:42 [INFO] Trace Saved
+2026-10-18 15:51:42 [INFO] Browser Closed
+2026-10-18 15:51:42 [INFO] =================================================
+2026-10-18 15:51:42 [INFO] After Scenario Completed
+2026-10-18 15:51:42 [INFO] =================================================
+2026-10-18 15:51:42 [INFO] =================================================
+2026-10-18 15:51:42 [INFO] Before Scenario Started
+2026-10-18 15:51:42 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:51:42 [INFO] =================================================
+2026-10-18 15:51:42 [INFO] Execution Type : Local
+2026-10-18 15:51:42 [INFO] Read TestRail : false
+2026-10-18 15:51:42 [INFO] Update TestRail : false
+2026-10-18 15:51:42 [INFO] Update Lambda : false
+2026-10-18 15:51:42 [INFO] Test Case Id : 5949
+2026-10-18 15:51:42 [INFO] Browser : chromium
+2026-10-18 15:51:44 [INFO] Browser launched successfully.
+2026-10-18 15:51:44 [INFO] Tracing Started
+2026-10-18 15:51:44 [INFO] =================================================
+2026-10-18 15:51:44 [INFO] Before Scenario Completed
+2026-10-18 15:51:44 [INFO] =================================================
+2026-10-18 15:51:45 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 15:51:45 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 15:51:45 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 15:51:48 [INFO] =================================================
+2026-10-18 15:51:48 [INFO] After Scenario Started
+2026-10-18 15:51:48 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:51:48 [INFO] =================================================
+2026-10-18 15:51:48 [INFO] Trace Saved
+2026-10-18 15:51:49 [INFO] Browser Closed
+2026-10-18 15:51:49 [INFO] =================================================
+2026-10-18 15:51:49 [INFO] After Scenario Completed
+2026-10-18 15:51:49 [INFO] =================================================
+2026-10-18 15:51:23 [INFO] ======================================
+2026-10-18 15:51:23 [INFO]  Playwright Enterprise Test Runner
+2026-10-18 15:51:23 [INFO] ======================================
+2026-10-18 15:51:23 [INFO] Environment : qa
+2026-10-18 15:51:23 [INFO] Browser    : chromium
+2026-10-18 15:51:23 [INFO] Parallel   : 1
+2026-10-18 15:51:23 [INFO] Tag        : @C5948 or @C5949 or @C5950
+2026-10-18 15:51:23 [INFO] --------------------------------------
+2026-10-18 15:51:23 [INFO] Command : npx cucumber-js --tags "@C5948 or @C5949 or @C5950" --parallel 1
+2026-10-18 15:51:23 [INFO] ======================================
+2026-10-18 15:51:23 [INFO] ===============In Test runner before ExecSync=======================
+2026-10-18 15:57:26 [INFO] logger...
+2026-10-18 15:57:26 [INFO] config...
+2026-10-18 15:57:26 [INFO] BrowserFixture...
+2026-10-18 15:57:26 [INFO] PageFixture...
+2026-10-18 15:57:26 [INFO] BrowserManager...
+2026-10-18 15:57:26 [INFO] TestRailManager...
+2026-10-18 15:57:27 [INFO] logger...
+2026-10-18 15:57:27 [INFO] config...
+2026-10-18 15:57:27 [INFO] BrowserFixture...
+2026-10-18 15:57:27 [INFO] PageFixture...
+2026-10-18 15:57:27 [INFO] BrowserManager...
+2026-10-18 15:57:27 [INFO] TestRailManager...
+2026-10-18 15:57:27 [INFO] =================================================
+2026-10-18 15:57:27 [INFO] Before Scenario Started
+2026-10-18 15:57:27 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 15:57:27 [INFO] =================================================
+2026-10-18 15:57:27 [INFO] Execution Type : Local
+2026-10-18 15:57:27 [INFO] Read TestRail : false
+2026-10-18 15:57:27 [INFO] Update TestRail : false
+2026-10-18 15:57:27 [INFO] Update Lambda : false
+2026-10-18 15:57:27 [INFO] Test Case Id : 5948
+2026-10-18 15:57:27 [INFO] Browser : chromium
+2026-10-18 15:57:29 [INFO] Browser launched successfully.
+2026-10-18 15:57:29 [INFO] Tracing Started
+2026-10-18 15:57:29 [INFO] =================================================
+2026-10-18 15:57:29 [INFO] Before Scenario Completed
+2026-10-18 15:57:29 [INFO] =================================================
+2026-10-18 15:57:30 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 15:57:30 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 15:57:30 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 15:57:33 [INFO] =================================================
+2026-10-18 15:57:33 [INFO] After Scenario Started
+2026-10-18 15:57:33 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 15:57:33 [INFO] =================================================
+2026-10-18 15:57:33 [INFO] Trace Saved
+2026-10-18 15:57:34 [INFO] Browser Closed
+2026-10-18 15:57:34 [INFO] =================================================
+2026-10-18 15:57:34 [INFO] After Scenario Completed
+2026-10-18 15:57:34 [INFO] =================================================
+2026-10-18 15:57:22 [INFO] ======================================
+2026-10-18 15:57:22 [INFO]  Playwright Enterprise Test Runner
+2026-10-18 15:57:22 [INFO] ======================================
+2026-10-18 15:57:22 [INFO] Environment : qa
+2026-10-18 15:57:22 [INFO] Browser    : chromium
+2026-10-18 15:57:22 [INFO] Parallel   : 1
+2026-10-18 15:57:22 [INFO] Tag        : @C5948
+2026-10-18 15:57:22 [INFO] --------------------------------------
+2026-10-18 15:57:22 [INFO] Command : npx cucumber-js --tags "@C5948" --parallel 1
+2026-10-18 15:57:22 [INFO] ======================================
+2026-10-18 15:57:22 [INFO] ===============In Test runner before ExecSync=======================
+2026-10-18 16:25:02 [INFO] logger...
+2026-10-18 16:25:02 [INFO] config...
+2026-10-18 16:25:02 [INFO] BrowserFixture...
+2026-10-18 16:25:02 [INFO] PageFixture...
+2026-10-18 16:25:02 [INFO] BrowserManager...
+2026-10-18 16:25:02 [INFO] TestRailManager...
+2026-10-18 16:25:03 [INFO] logger...
+2026-10-18 16:25:03 [INFO] config...
+2026-10-18 16:25:03 [INFO] BrowserFixture...
+2026-10-18 16:25:03 [INFO] PageFixture...
+2026-10-18 16:25:03 [INFO] BrowserManager...
+2026-10-18 16:25:03 [INFO] TestRailManager...
+2026-10-18 16:25:03 [INFO] =================================================
+2026-10-18 16:25:03 [INFO] Before Scenario Started
+2026-10-18 16:25:03 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 16:25:03 [INFO] =================================================
+2026-10-18 16:25:03 [INFO] Execution Type : Local
+2026-10-18 16:25:03 [INFO] Read TestRail : false
+2026-10-18 16:25:03 [INFO] Update TestRail : false
+2026-10-18 16:25:03 [INFO] Update Lambda : false
+2026-10-18 16:25:03 [INFO] Test Case Id : 5948
+2026-10-18 16:25:03 [INFO] Browser : chromium
+2026-10-18 16:25:04 [INFO] Browser launched successfully.
+2026-10-18 16:25:04 [INFO] Tracing Started
+2026-10-18 16:25:04 [INFO] =================================================
+2026-10-18 16:25:04 [INFO] Before Scenario Completed
+2026-10-18 16:25:04 [INFO] =================================================
+2026-10-18 16:25:05 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:25:06 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:25:06 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:25:08 [INFO] =================================================
+2026-10-18 16:25:08 [INFO] After Scenario Started
+2026-10-18 16:25:08 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 16:25:08 [INFO] =================================================
+2026-10-18 16:25:09 [INFO] Trace Saved
+2026-10-18 16:25:09 [INFO] Browser Closed
+2026-10-18 16:25:09 [INFO] =================================================
+2026-10-18 16:25:09 [INFO] After Scenario Completed
+2026-10-18 16:25:09 [INFO] =================================================
+2026-10-18 16:27:09 [INFO] logger...
+2026-10-18 16:27:09 [INFO] config...
+2026-10-18 16:27:09 [INFO] BrowserFixture...
+2026-10-18 16:27:09 [INFO] PageFixture...
+2026-10-18 16:27:09 [INFO] BrowserManager...
+2026-10-18 16:27:09 [INFO] TestRailManager...
+2026-10-18 16:27:11 [INFO] logger...
+2026-10-18 16:27:11 [INFO] config...
+2026-10-18 16:27:11 [INFO] BrowserFixture...
+2026-10-18 16:27:11 [INFO] PageFixture...
+2026-10-18 16:27:11 [INFO] BrowserManager...
+2026-10-18 16:27:11 [INFO] TestRailManager...
+2026-10-18 16:27:11 [INFO] =================================================
+2026-10-18 16:27:11 [INFO] Before Scenario Started
+2026-10-18 16:27:11 [INFO] Scenario : Verify user can add an available product to the cart
+2026-10-18 16:27:11 [INFO] =================================================
+2026-10-18 16:27:11 [INFO] Execution Type : Local
+2026-10-18 16:27:11 [INFO] Read TestRail : false
+2026-10-18 16:27:11 [INFO] Update TestRail : false
+2026-10-18 16:27:11 [INFO] Update Lambda : false
+2026-10-18 16:27:11 [INFO] Test Case Id : 6001
+2026-10-18 16:27:11 [INFO] Browser : chromium
+2026-10-18 16:27:12 [INFO] Browser launched successfully.
+2026-10-18 16:27:12 [INFO] Tracing Started
+2026-10-18 16:27:12 [INFO] =================================================
+2026-10-18 16:27:12 [INFO] Before Scenario Completed
+2026-10-18 16:27:12 [INFO] =================================================
+2026-10-18 16:27:12 [INFO] =================================================
+2026-10-18 16:27:12 [INFO] After Scenario Started
+2026-10-18 16:27:12 [INFO] Scenario Name : Verify user can add an available product to the cart
+2026-10-18 16:27:12 [INFO] =================================================
+2026-10-18 16:27:12 [ERROR] Screenshot Captured : Verify_user_can_add_an_available_product_to_the_cart.png
+2026-10-18 16:27:12 [INFO] Trace Saved
+2026-10-18 16:27:13 [INFO] Browser Closed
+2026-10-18 16:27:13 [INFO] =================================================
+2026-10-18 16:27:13 [INFO] After Scenario Completed
+2026-10-18 16:27:13 [INFO] =================================================
+2026-10-18 16:27:40 [INFO] logger...
+2026-10-18 16:27:40 [INFO] config...
+2026-10-18 16:27:40 [INFO] BrowserFixture...
+2026-10-18 16:27:40 [INFO] PageFixture...
+2026-10-18 16:27:40 [INFO] BrowserManager...
+2026-10-18 16:27:40 [INFO] TestRailManager...
+2026-10-18 16:27:41 [INFO] logger...
+2026-10-18 16:27:41 [INFO] config...
+2026-10-18 16:27:41 [INFO] BrowserFixture...
+2026-10-18 16:27:41 [INFO] PageFixture...
+2026-10-18 16:27:41 [INFO] BrowserManager...
+2026-10-18 16:27:41 [INFO] TestRailManager...
+2026-10-18 16:27:42 [INFO] =================================================
+2026-10-18 16:27:42 [INFO] Before Scenario Started
+2026-10-18 16:27:42 [INFO] Scenario : Verify user can add an available product to the cart
+2026-10-18 16:27:42 [INFO] =================================================
+2026-10-18 16:27:42 [INFO] Execution Type : Local
+2026-10-18 16:27:42 [INFO] Read TestRail : false
+2026-10-18 16:27:42 [INFO] Update TestRail : false
+2026-10-18 16:27:42 [INFO] Update Lambda : false
+2026-10-18 16:27:42 [INFO] Test Case Id : 6001
+2026-10-18 16:27:42 [INFO] Browser : chromium
+2026-10-18 16:27:43 [INFO] Browser launched successfully.
+2026-10-18 16:27:43 [INFO] Tracing Started
+2026-10-18 16:27:43 [INFO] =================================================
+2026-10-18 16:27:43 [INFO] Before Scenario Completed
+2026-10-18 16:27:43 [INFO] =================================================
+2026-10-18 16:27:44 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:27:44 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:27:45 [INFO] Navigating to Products page via header link
+2026-10-18 16:27:45 [INFO] Click -> //a[contains(@href, '/products')] | //a[text()='Products']
+2026-10-18 16:28:32 [INFO] logger...
+2026-10-18 16:28:32 [INFO] config...
+2026-10-18 16:28:32 [INFO] BrowserFixture...
+2026-10-18 16:28:32 [INFO] PageFixture...
+2026-10-18 16:28:32 [INFO] BrowserManager...
+2026-10-18 16:28:32 [INFO] TestRailManager...
+2026-10-18 16:28:34 [INFO] logger...
+2026-10-18 16:28:34 [INFO] config...
+2026-10-18 16:28:34 [INFO] BrowserFixture...
+2026-10-18 16:28:34 [INFO] PageFixture...
+2026-10-18 16:28:34 [INFO] BrowserManager...
+2026-10-18 16:28:34 [INFO] TestRailManager...
+2026-10-18 16:28:34 [INFO] =================================================
+2026-10-18 16:28:34 [INFO] Before Scenario Started
+2026-10-18 16:28:34 [INFO] Scenario : Verify user can add an available product to the cart
+2026-10-18 16:28:34 [INFO] =================================================
+2026-10-18 16:28:34 [INFO] Execution Type : Local
+2026-10-18 16:28:34 [INFO] Read TestRail : false
+2026-10-18 16:28:34 [INFO] Update TestRail : false
+2026-10-18 16:28:34 [INFO] Update Lambda : false
+2026-10-18 16:28:34 [INFO] Test Case Id : 6001
+2026-10-18 16:28:34 [INFO] Browser : chromium
+2026-10-18 16:28:35 [INFO] Browser launched successfully.
+2026-10-18 16:28:35 [INFO] Tracing Started
+2026-10-18 16:28:35 [INFO] =================================================
+2026-10-18 16:28:35 [INFO] Before Scenario Completed
+2026-10-18 16:28:35 [INFO] =================================================
+2026-10-18 16:28:36 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:28:36 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:28:37 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:28:37 [INFO] Navigating to Products page via header link
+2026-10-18 16:28:37 [INFO] Click -> //a[contains(@href, '/products')] | //a[text()='Products']
+2026-10-18 16:28:39 [INFO] =================================================
+2026-10-18 16:28:39 [INFO] After Scenario Started
+2026-10-18 16:28:39 [INFO] Scenario Name : Verify user can add an available product to the cart
+2026-10-18 16:28:39 [INFO] =================================================
+2026-10-18 16:28:40 [ERROR] Screenshot Captured : Verify_user_can_add_an_available_product_to_the_cart.png
+2026-10-18 16:28:40 [INFO] Trace Saved
+2026-10-18 16:28:41 [INFO] Browser Closed
+2026-10-18 16:28:41 [INFO] =================================================
+2026-10-18 16:28:41 [INFO] After Scenario Completed
+2026-10-18 16:28:41 [INFO] =================================================
+2026-10-18 16:30:01 [INFO] logger...
+2026-10-18 16:30:01 [INFO] config...
+2026-10-18 16:30:01 [INFO] BrowserFixture...
+2026-10-18 16:30:01 [INFO] PageFixture...
+2026-10-18 16:30:01 [INFO] BrowserManager...
+2026-10-18 16:30:01 [INFO] TestRailManager...
+2026-10-18 16:30:03 [INFO] logger...
+2026-10-18 16:30:03 [INFO] config...
+2026-10-18 16:30:03 [INFO] BrowserFixture...
+2026-10-18 16:30:03 [INFO] PageFixture...
+2026-10-18 16:30:03 [INFO] BrowserManager...
+2026-10-18 16:30:03 [INFO] TestRailManager...
+2026-10-18 16:30:03 [INFO] =================================================
+2026-10-18 16:30:03 [INFO] Before Scenario Started
+2026-10-18 16:30:03 [INFO] Scenario : Verify user can add an available product to the cart
+2026-10-18 16:30:03 [INFO] =================================================
+2026-10-18 16:30:03 [INFO] Execution Type : Local
+2026-10-18 16:30:03 [INFO] Read TestRail : false
+2026-10-18 16:30:03 [INFO] Update TestRail : false
+2026-10-18 16:30:03 [INFO] Update Lambda : false
+2026-10-18 16:30:03 [INFO] Test Case Id : 6001
+2026-10-18 16:30:03 [INFO] Browser : chromium
+2026-10-18 16:30:03 [INFO] Browser launched successfully.
+2026-10-18 16:30:04 [INFO] Tracing Started
+2026-10-18 16:30:04 [INFO] =================================================
+2026-10-18 16:30:04 [INFO] Before Scenario Completed
+2026-10-18 16:30:04 [INFO] =================================================
+2026-10-18 16:30:05 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:30:05 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:30:05 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:30:05 [INFO] Navigating to Products page via header link
+2026-10-18 16:30:05 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 16:30:09 [INFO] Adding product to cart: iPhone
+2026-10-18 16:30:09 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='iPhone']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 16:30:09 [INFO] Verifying item added success notification
+2026-10-18 16:30:10 [INFO] Verifying cart badge count equals 1
+2026-10-18 16:30:10 [INFO] Reading Text -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 16:30:10 [INFO] =================================================
+2026-10-18 16:30:10 [INFO] After Scenario Started
+2026-10-18 16:30:10 [INFO] Scenario Name : Verify user can add an available product to the cart
+2026-10-18 16:30:10 [INFO] =================================================
+2026-10-18 16:30:11 [ERROR] Screenshot Captured : Verify_user_can_add_an_available_product_to_the_cart.png
+2026-10-18 16:30:13 [INFO] Trace Saved
+2026-10-18 16:30:13 [INFO] Browser Closed
+2026-10-18 16:30:13 [INFO] =================================================
+2026-10-18 16:30:13 [INFO] After Scenario Completed
+2026-10-18 16:30:13 [INFO] =================================================
+2026-10-18 16:32:12 [INFO] logger...
+2026-10-18 16:32:12 [INFO] config...
+2026-10-18 16:32:12 [INFO] BrowserFixture...
+2026-10-18 16:32:12 [INFO] PageFixture...
+2026-10-18 16:32:12 [INFO] BrowserManager...
+2026-10-18 16:32:12 [INFO] TestRailManager...
+2026-10-18 16:32:13 [INFO] logger...
+2026-10-18 16:32:13 [INFO] config...
+2026-10-18 16:32:13 [INFO] BrowserFixture...
+2026-10-18 16:32:13 [INFO] PageFixture...
+2026-10-18 16:32:13 [INFO] BrowserManager...
+2026-10-18 16:32:13 [INFO] TestRailManager...
+2026-10-18 16:32:13 [INFO] =================================================
+2026-10-18 16:32:13 [INFO] Before Scenario Started
+2026-10-18 16:32:13 [INFO] Scenario : Verify user can add an available product to the cart
+2026-10-18 16:32:13 [INFO] =================================================
+2026-10-18 16:32:13 [INFO] Execution Type : Local
+2026-10-18 16:32:13 [INFO] Read TestRail : false
+2026-10-18 16:32:13 [INFO] Update TestRail : false
+2026-10-18 16:32:13 [INFO] Update Lambda : false
+2026-10-18 16:32:13 [INFO] Test Case Id : 6001
+2026-10-18 16:32:13 [INFO] Browser : chromium
+2026-10-18 16:32:14 [INFO] Browser launched successfully.
+2026-10-18 16:32:14 [INFO] Tracing Started
+2026-10-18 16:32:14 [INFO] =================================================
+2026-10-18 16:32:14 [INFO] Before Scenario Completed
+2026-10-18 16:32:14 [INFO] =================================================
+2026-10-18 16:32:15 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:32:15 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:32:15 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:32:15 [INFO] Navigating to Products page via header link
+2026-10-18 16:32:15 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 16:32:18 [INFO] Adding product to cart: iPhone
+2026-10-18 16:32:19 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='iPhone']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 16:32:19 [INFO] Verifying item added success notification
+2026-10-18 16:32:20 [INFO] Navigating to Cart page
+2026-10-18 16:32:20 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 16:32:22 [INFO] Verifying cart badge count equals 1
+2026-10-18 16:32:22 [INFO] Verifying product 'iPhone' is present in cart
+2026-10-18 16:32:22 [INFO] =================================================
+2026-10-18 16:32:22 [INFO] After Scenario Started
+2026-10-18 16:32:22 [INFO] Scenario Name : Verify user can add an available product to the cart
+2026-10-18 16:32:22 [INFO] =================================================
+2026-10-18 16:32:23 [INFO] Trace Saved
+2026-10-18 16:32:23 [INFO] Browser Closed
+2026-10-18 16:32:23 [INFO] =================================================
+2026-10-18 16:32:23 [INFO] After Scenario Completed
+2026-10-18 16:32:23 [INFO] =================================================
+2026-10-18 16:32:39 [INFO] logger...
+2026-10-18 16:32:39 [INFO] config...
+2026-10-18 16:32:39 [INFO] BrowserFixture...
+2026-10-18 16:32:39 [INFO] PageFixture...
+2026-10-18 16:32:39 [INFO] BrowserManager...
+2026-10-18 16:32:39 [INFO] TestRailManager...
+2026-10-18 16:32:40 [INFO] logger...
+2026-10-18 16:32:40 [INFO] config...
+2026-10-18 16:32:40 [INFO] BrowserFixture...
+2026-10-18 16:32:40 [INFO] PageFixture...
+2026-10-18 16:32:40 [INFO] BrowserManager...
+2026-10-18 16:32:40 [INFO] TestRailManager...
+2026-10-18 16:32:40 [INFO] =================================================
+2026-10-18 16:32:40 [INFO] Before Scenario Started
+2026-10-18 16:32:40 [INFO] Scenario : Verify out of stock products cannot be added to the cart
+2026-10-18 16:32:40 [INFO] =================================================
+2026-10-18 16:32:40 [INFO] Execution Type : Local
+2026-10-18 16:32:40 [INFO] Read TestRail : false
+2026-10-18 16:32:40 [INFO] Update TestRail : false
+2026-10-18 16:32:40 [INFO] Update Lambda : false
+2026-10-18 16:32:40 [INFO] Test Case Id : 6005
+2026-10-18 16:32:40 [INFO] Browser : chromium
+2026-10-18 16:32:41 [INFO] Browser launched successfully.
+2026-10-18 16:32:41 [INFO] Tracing Started
+2026-10-18 16:32:41 [INFO] =================================================
+2026-10-18 16:32:41 [INFO] Before Scenario Completed
+2026-10-18 16:32:41 [INFO] =================================================
+2026-10-18 16:32:42 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:32:42 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:32:42 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:32:43 [INFO] Navigating to Products page via header link
+2026-10-18 16:32:43 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 16:32:45 [INFO] Adding product to cart: Keyboard
+2026-10-18 16:32:46 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Keyboard']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 16:32:46 [INFO] Verifying out of stock notification
+2026-10-18 16:32:46 [INFO] =================================================
+2026-10-18 16:32:46 [INFO] After Scenario Started
+2026-10-18 16:32:46 [INFO] Scenario Name : Verify out of stock products cannot be added to the cart
+2026-10-18 16:32:46 [INFO] =================================================
+2026-10-18 16:32:48 [INFO] Trace Saved
+2026-10-18 16:32:48 [INFO] Browser Closed
+2026-10-18 16:32:48 [INFO] =================================================
+2026-10-18 16:32:48 [INFO] After Scenario Completed
+2026-10-18 16:32:48 [INFO] =================================================
+2026-10-18 16:32:48 [INFO] =================================================
+2026-10-18 16:32:48 [INFO] Before Scenario Started
+2026-10-18 16:32:48 [INFO] Scenario : Verify out of stock products cannot be added to the cart
+2026-10-18 16:32:48 [INFO] =================================================
+2026-10-18 16:32:48 [INFO] Execution Type : Local
+2026-10-18 16:32:48 [INFO] Read TestRail : false
+2026-10-18 16:32:48 [INFO] Update TestRail : false
+2026-10-18 16:32:48 [INFO] Update Lambda : false
+2026-10-18 16:32:48 [INFO] Test Case Id : 6005
+2026-10-18 16:32:48 [INFO] Browser : chromium
+2026-10-18 16:32:49 [INFO] Browser launched successfully.
+2026-10-18 16:32:49 [INFO] Tracing Started
+2026-10-18 16:32:49 [INFO] =================================================
+2026-10-18 16:32:49 [INFO] Before Scenario Completed
+2026-10-18 16:32:49 [INFO] =================================================
+2026-10-18 16:32:50 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:32:51 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:32:51 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:32:51 [INFO] Navigating to Products page via header link
+2026-10-18 16:32:51 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 16:32:54 [INFO] Adding product to cart: Samsung
+2026-10-18 16:32:54 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Samsung']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 16:32:55 [INFO] Verifying out of stock notification
+2026-10-18 16:32:55 [INFO] =================================================
+2026-10-18 16:32:55 [INFO] After Scenario Started
+2026-10-18 16:32:55 [INFO] Scenario Name : Verify out of stock products cannot be added to the cart
+2026-10-18 16:32:55 [INFO] =================================================
+2026-10-18 16:32:56 [INFO] Trace Saved
+2026-10-18 16:32:56 [INFO] Browser Closed
+2026-10-18 16:32:56 [INFO] =================================================
+2026-10-18 16:32:56 [INFO] After Scenario Completed
+2026-10-18 16:32:56 [INFO] =================================================
+2026-10-18 16:32:56 [INFO] =================================================
+2026-10-18 16:32:56 [INFO] Before Scenario Started
+2026-10-18 16:32:56 [INFO] Scenario : Verify out of stock products cannot be added to the cart
+2026-10-18 16:32:56 [INFO] =================================================
+2026-10-18 16:32:56 [INFO] Execution Type : Local
+2026-10-18 16:32:56 [INFO] Read TestRail : false
+2026-10-18 16:32:56 [INFO] Update TestRail : false
+2026-10-18 16:32:56 [INFO] Update Lambda : false
+2026-10-18 16:32:56 [INFO] Test Case Id : 6005
+2026-10-18 16:32:56 [INFO] Browser : chromium
+2026-10-18 16:32:57 [INFO] Browser launched successfully.
+2026-10-18 16:32:57 [INFO] Tracing Started
+2026-10-18 16:32:57 [INFO] =================================================
+2026-10-18 16:32:57 [INFO] Before Scenario Completed
+2026-10-18 16:32:57 [INFO] =================================================
+2026-10-18 16:32:59 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:32:59 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:32:59 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:32:59 [INFO] Navigating to Products page via header link
+2026-10-18 16:32:59 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 16:33:02 [INFO] Adding product to cart: Laptop
+2026-10-18 16:33:02 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Laptop']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 16:33:03 [INFO] Verifying out of stock notification
+2026-10-18 16:33:03 [INFO] =================================================
+2026-10-18 16:33:03 [INFO] After Scenario Started
+2026-10-18 16:33:03 [INFO] Scenario Name : Verify out of stock products cannot be added to the cart
+2026-10-18 16:33:03 [INFO] =================================================
+2026-10-18 16:33:04 [INFO] Trace Saved
+2026-10-18 16:33:05 [INFO] Browser Closed
+2026-10-18 16:33:05 [INFO] =================================================
+2026-10-18 16:33:05 [INFO] After Scenario Completed
+2026-10-18 16:33:05 [INFO] =================================================
+2026-10-18 16:33:26 [INFO] logger...
+2026-10-18 16:33:26 [INFO] config...
+2026-10-18 16:33:26 [INFO] BrowserFixture...
+2026-10-18 16:33:26 [INFO] PageFixture...
+2026-10-18 16:33:26 [INFO] BrowserManager...
+2026-10-18 16:33:26 [INFO] TestRailManager...
+2026-10-18 16:33:28 [INFO] logger...
+2026-10-18 16:33:28 [INFO] config...
+2026-10-18 16:33:28 [INFO] BrowserFixture...
+2026-10-18 16:33:28 [INFO] PageFixture...
+2026-10-18 16:33:28 [INFO] BrowserManager...
+2026-10-18 16:33:28 [INFO] TestRailManager...
+2026-10-18 16:33:28 [INFO] =================================================
+2026-10-18 16:33:28 [INFO] Before Scenario Started
+2026-10-18 16:33:28 [INFO] Scenario : Verify empty cart message and browse navigation
+2026-10-18 16:33:28 [INFO] =================================================
+2026-10-18 16:33:28 [INFO] Execution Type : Local
+2026-10-18 16:33:28 [INFO] Read TestRail : false
+2026-10-18 16:33:28 [INFO] Update TestRail : false
+2026-10-18 16:33:28 [INFO] Update Lambda : false
+2026-10-18 16:33:28 [INFO] Test Case Id : 6007
+2026-10-18 16:33:28 [INFO] Browser : chromium
+2026-10-18 16:33:29 [INFO] Browser launched successfully.
+2026-10-18 16:33:29 [INFO] Tracing Started
+2026-10-18 16:33:29 [INFO] =================================================
+2026-10-18 16:33:29 [INFO] Before Scenario Completed
+2026-10-18 16:33:29 [INFO] =================================================
+2026-10-18 16:33:30 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:33:30 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:33:30 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:33:30 [INFO] Navigating to Products page via header link
+2026-10-18 16:33:30 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 16:33:33 [INFO] Navigating to Cart page
+2026-10-18 16:33:33 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 16:33:34 [INFO] Verifying empty cart message
+2026-10-18 16:33:34 [INFO] Clicking Browse button from empty cart
+2026-10-18 16:33:34 [INFO] Click -> (//button[contains(text(), 'Browse')])[1]
+2026-10-18 16:33:34 [INFO] =================================================
+2026-10-18 16:33:34 [INFO] After Scenario Started
+2026-10-18 16:33:34 [INFO] Scenario Name : Verify empty cart message and browse navigation
+2026-10-18 16:33:34 [INFO] =================================================
+2026-10-18 16:33:35 [INFO] Trace Saved
+2026-10-18 16:33:35 [INFO] Browser Closed
+2026-10-18 16:33:35 [INFO] =================================================
+2026-10-18 16:33:35 [INFO] After Scenario Completed
+2026-10-18 16:33:35 [INFO] =================================================
+2026-10-18 16:34:26 [INFO] logger...
+2026-10-18 16:34:26 [INFO] config...
+2026-10-18 16:34:26 [INFO] BrowserFixture...
+2026-10-18 16:34:26 [INFO] PageFixture...
+2026-10-18 16:34:26 [INFO] BrowserManager...
+2026-10-18 16:34:26 [INFO] TestRailManager...
+2026-10-18 16:34:28 [INFO] logger...
+2026-10-18 16:34:28 [INFO] config...
+2026-10-18 16:34:28 [INFO] BrowserFixture...
+2026-10-18 16:34:28 [INFO] PageFixture...
+2026-10-18 16:34:28 [INFO] BrowserManager...
+2026-10-18 16:34:28 [INFO] TestRailManager...
+2026-10-18 16:34:28 [INFO] =================================================
+2026-10-18 16:34:28 [INFO] Before Scenario Started
+2026-10-18 16:34:28 [INFO] Scenario : Verify user can remove an item from the cart
+2026-10-18 16:34:28 [INFO] =================================================
+2026-10-18 16:34:28 [INFO] Execution Type : Local
+2026-10-18 16:34:28 [INFO] Read TestRail : false
+2026-10-18 16:34:28 [INFO] Update TestRail : false
+2026-10-18 16:34:28 [INFO] Update Lambda : false
+2026-10-18 16:34:28 [INFO] Test Case Id : 6006
+2026-10-18 16:34:28 [INFO] Browser : chromium
+2026-10-18 16:34:29 [INFO] Browser launched successfully.
+2026-10-18 16:34:29 [INFO] Tracing Started
+2026-10-18 16:34:29 [INFO] =================================================
+2026-10-18 16:34:29 [INFO] Before Scenario Completed
+2026-10-18 16:34:29 [INFO] =================================================
+2026-10-18 16:34:30 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:34:30 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:34:31 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:34:31 [INFO] =================================================
+2026-10-18 16:34:31 [INFO] After Scenario Started
+2026-10-18 16:34:31 [INFO] Scenario Name : Verify user can remove an item from the cart
+2026-10-18 16:34:31 [INFO] =================================================
+2026-10-18 16:34:31 [INFO] Trace Saved
+2026-10-18 16:34:32 [INFO] Browser Closed
+2026-10-18 16:34:32 [INFO] =================================================
+2026-10-18 16:34:32 [INFO] After Scenario Completed
+2026-10-18 16:34:32 [INFO] =================================================
+2026-10-18 16:35:32 [INFO] logger...
+2026-10-18 16:35:32 [INFO] config...
+2026-10-18 16:35:32 [INFO] BrowserFixture...
+2026-10-18 16:35:32 [INFO] PageFixture...
+2026-10-18 16:35:32 [INFO] BrowserManager...
+2026-10-18 16:35:32 [INFO] TestRailManager...
+2026-10-18 16:35:33 [INFO] logger...
+2026-10-18 16:35:33 [INFO] config...
+2026-10-18 16:35:33 [INFO] BrowserFixture...
+2026-10-18 16:35:33 [INFO] PageFixture...
+2026-10-18 16:35:33 [INFO] BrowserManager...
+2026-10-18 16:35:33 [INFO] TestRailManager...
+2026-10-18 16:35:33 [INFO] =================================================
+2026-10-18 16:35:33 [INFO] Before Scenario Started
+2026-10-18 16:35:33 [INFO] Scenario : Verify user can remove an item from the cart
+2026-10-18 16:35:33 [INFO] =================================================
+2026-10-18 16:35:33 [INFO] Execution Type : Local
+2026-10-18 16:35:33 [INFO] Read TestRail : false
+2026-10-18 16:35:33 [INFO] Update TestRail : false
+2026-10-18 16:35:33 [INFO] Update Lambda : false
+2026-10-18 16:35:33 [INFO] Test Case Id : 6006
+2026-10-18 16:35:33 [INFO] Browser : chromium
+2026-10-18 16:35:34 [INFO] Browser launched successfully.
+2026-10-18 16:35:34 [INFO] Tracing Started
+2026-10-18 16:35:34 [INFO] =================================================
+2026-10-18 16:35:34 [INFO] Before Scenario Completed
+2026-10-18 16:35:34 [INFO] =================================================
+2026-10-18 16:35:36 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:35:36 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:35:36 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:35:36 [INFO] Navigating to Products page via header link
+2026-10-18 16:35:36 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 16:35:39 [INFO] Adding product to cart: Watch
+2026-10-18 16:35:40 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Watch']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 16:35:40 [INFO] Navigating to Cart page
+2026-10-18 16:35:40 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 16:35:42 [INFO] Verifying product 'Watch' is present in cart
+2026-10-18 16:35:42 [INFO] Removing product 'Watch' from cart
+2026-10-18 16:35:42 [INFO] Click -> (//div[.//h2[normalize-space()='Watch'] or contains(., 'Watch')]//button[contains(text(), 'Remove')])[1]
+2026-10-18 16:35:43 [INFO] Verifying product 'Watch' is not in cart
+2026-10-18 16:35:45 [INFO] =================================================
+2026-10-18 16:35:45 [INFO] After Scenario Started
+2026-10-18 16:35:45 [INFO] Scenario Name : Verify user can remove an item from the cart
+2026-10-18 16:35:45 [INFO] =================================================
+2026-10-18 16:35:46 [INFO] Trace Saved
+2026-10-18 16:35:47 [INFO] Browser Closed
+2026-10-18 16:35:47 [INFO] =================================================
+2026-10-18 16:35:47 [INFO] After Scenario Completed
+2026-10-18 16:35:47 [INFO] =================================================
+2026-10-18 16:36:03 [INFO] logger...
+2026-10-18 16:36:03 [INFO] config...
+2026-10-18 16:36:03 [INFO] BrowserFixture...
+2026-10-18 16:36:03 [INFO] PageFixture...
+2026-10-18 16:36:03 [INFO] BrowserManager...
+2026-10-18 16:36:03 [INFO] TestRailManager...
+2026-10-18 16:36:05 [INFO] logger...
+2026-10-18 16:36:05 [INFO] config...
+2026-10-18 16:36:05 [INFO] BrowserFixture...
+2026-10-18 16:36:05 [INFO] PageFixture...
+2026-10-18 16:36:05 [INFO] BrowserManager...
+2026-10-18 16:36:05 [INFO] TestRailManager...
+2026-10-18 16:36:05 [INFO] =================================================
+2026-10-18 16:36:05 [INFO] Before Scenario Started
+2026-10-18 16:36:05 [INFO] Scenario : Verify user can add multiple different products to the cart
+2026-10-18 16:36:05 [INFO] =================================================
+2026-10-18 16:36:05 [INFO] Execution Type : Local
+2026-10-18 16:36:05 [INFO] Read TestRail : false
+2026-10-18 16:36:05 [INFO] Update TestRail : false
+2026-10-18 16:36:05 [INFO] Update Lambda : false
+2026-10-18 16:36:05 [INFO] Test Case Id : 6003
+2026-10-18 16:36:05 [INFO] Browser : chromium
+2026-10-18 16:36:06 [INFO] Browser launched successfully.
+2026-10-18 16:36:06 [INFO] Tracing Started
+2026-10-18 16:36:06 [INFO] =================================================
+2026-10-18 16:36:06 [INFO] Before Scenario Completed
+2026-10-18 16:36:06 [INFO] =================================================
+2026-10-18 16:36:07 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:36:07 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:36:07 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:36:07 [INFO] Navigating to Products page via header link
+2026-10-18 16:36:07 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 16:36:11 [INFO] Adding product to cart: iPhone
+2026-10-18 16:36:11 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='iPhone']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 16:36:11 [INFO] Closing toast notification
+2026-10-18 16:36:11 [INFO] Click -> (//button[contains(text(), 'Close')])[1]
+2026-10-18 16:36:14 [INFO] Adding product to cart: Camera
+2026-10-18 16:36:14 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Camera']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 16:36:14 [INFO] Verifying item added success notification
+2026-10-18 16:36:14 [INFO] Navigating to Cart page
+2026-10-18 16:36:14 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 16:36:17 [INFO] Verifying product 'iPhone' is present in cart
+2026-10-18 16:36:17 [INFO] Verifying product 'Camera' is present in cart
+2026-10-18 16:36:17 [INFO] =================================================
+2026-10-18 16:36:17 [INFO] After Scenario Started
+2026-10-18 16:36:17 [INFO] Scenario Name : Verify user can add multiple different products to the cart
+2026-10-18 16:36:17 [INFO] =================================================
+2026-10-18 16:36:18 [INFO] Trace Saved
+2026-10-18 16:36:19 [INFO] Browser Closed
+2026-10-18 16:36:19 [INFO] =================================================
+2026-10-18 16:36:19 [INFO] After Scenario Completed
+2026-10-18 16:36:19 [INFO] =================================================
+2026-10-18 16:36:36 [INFO] logger...
+2026-10-18 16:36:36 [INFO] config...
+2026-10-18 16:36:36 [INFO] BrowserFixture...
+2026-10-18 16:36:36 [INFO] PageFixture...
+2026-10-18 16:36:36 [INFO] BrowserManager...
+2026-10-18 16:36:36 [INFO] TestRailManager...
+2026-10-18 16:36:37 [INFO] logger...
+2026-10-18 16:36:37 [INFO] config...
+2026-10-18 16:36:37 [INFO] BrowserFixture...
+2026-10-18 16:36:37 [INFO] PageFixture...
+2026-10-18 16:36:37 [INFO] BrowserManager...
+2026-10-18 16:36:37 [INFO] TestRailManager...
+2026-10-18 16:36:37 [INFO] =================================================
+2026-10-18 16:36:37 [INFO] Before Scenario Started
+2026-10-18 16:36:37 [INFO] Scenario : Verify user can increase product quantity before adding to cart
+2026-10-18 16:36:37 [INFO] =================================================
+2026-10-18 16:36:37 [INFO] Execution Type : Local
+2026-10-18 16:36:37 [INFO] Read TestRail : false
+2026-10-18 16:36:37 [INFO] Update TestRail : false
+2026-10-18 16:36:37 [INFO] Update Lambda : false
+2026-10-18 16:36:37 [INFO] Test Case Id : 6004
+2026-10-18 16:36:37 [INFO] Browser : chromium
+2026-10-18 16:36:38 [INFO] Browser launched successfully.
+2026-10-18 16:36:38 [INFO] Tracing Started
+2026-10-18 16:36:38 [INFO] =================================================
+2026-10-18 16:36:38 [INFO] Before Scenario Completed
+2026-10-18 16:36:38 [INFO] =================================================
+2026-10-18 16:36:39 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:36:39 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:36:39 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:36:39 [INFO] Navigating to Products page via header link
+2026-10-18 16:36:39 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 16:36:42 [INFO] Increasing quantity for Purse by 2
+2026-10-18 16:36:43 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Purse']]//button[text()='+'])[1]
+2026-10-18 16:36:43 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Purse']]//button[text()='+'])[1]
+2026-10-18 16:36:44 [INFO] Adding product to cart: Purse
+2026-10-18 16:36:44 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Purse']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 16:36:44 [INFO] Verifying item added success notification
+2026-10-18 16:36:44 [INFO] Navigating to Cart page
+2026-10-18 16:36:44 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 16:36:46 [INFO] Verifying quantity for Purse in cart equals 3
+2026-10-18 16:36:46 [INFO] Reading Text -> (//div[.//h2[normalize-space()='Purse'] or contains(., 'Purse')]//*[contains(text(), 'Qty:')])[1]
+2026-10-18 16:36:46 [INFO] =================================================
+2026-10-18 16:36:46 [INFO] After Scenario Started
+2026-10-18 16:36:46 [INFO] Scenario Name : Verify user can increase product quantity before adding to cart
+2026-10-18 16:36:46 [INFO] =================================================
+2026-10-18 16:36:48 [INFO] Trace Saved
+2026-10-18 16:36:48 [INFO] Browser Closed
+2026-10-18 16:36:48 [INFO] =================================================
+2026-10-18 16:36:48 [INFO] After Scenario Completed
+2026-10-18 16:36:48 [INFO] =================================================
+2026-10-18 16:48:43 [INFO] logger...
+2026-10-18 16:48:43 [INFO] config...
+2026-10-18 16:48:43 [INFO] BrowserFixture...
+2026-10-18 16:48:43 [INFO] PageFixture...
+2026-10-18 16:48:43 [INFO] BrowserManager...
+2026-10-18 16:48:43 [INFO] TestRailManager...
+2026-10-18 16:48:44 [INFO] logger...
+2026-10-18 16:48:44 [INFO] config...
+2026-10-18 16:48:44 [INFO] BrowserFixture...
+2026-10-18 16:48:44 [INFO] PageFixture...
+2026-10-18 16:48:44 [INFO] BrowserManager...
+2026-10-18 16:48:44 [INFO] TestRailManager...
+2026-10-18 16:48:44 [INFO] =================================================
+2026-10-18 16:48:44 [INFO] Before Scenario Started
+2026-10-18 16:48:44 [INFO] Scenario : Verify successful redirection to dashboard after login
+2026-10-18 16:48:44 [INFO] =================================================
+2026-10-18 16:48:44 [INFO] Execution Type : Local
+2026-10-18 16:48:44 [INFO] Read TestRail : false
+2026-10-18 16:48:44 [INFO] Update TestRail : false
+2026-10-18 16:48:44 [INFO] Update Lambda : false
+2026-10-18 16:48:44 [INFO] Test Case Id : 5347
+2026-10-18 16:48:44 [INFO] Browser : chromium
+2026-10-18 16:48:45 [INFO] Browser launched successfully.
+2026-10-18 16:48:45 [INFO] Tracing Started
+2026-10-18 16:48:45 [INFO] =================================================
+2026-10-18 16:48:45 [INFO] Before Scenario Completed
+2026-10-18 16:48:45 [INFO] =================================================
+2026-10-18 16:48:47 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:48:47 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:48:47 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:48:47 [INFO] Verifying user is on Dashboard / Home URL
+2026-10-18 16:48:49 [INFO] Verifying login success popup is visible
+2026-10-18 16:48:50 [INFO] =================================================
+2026-10-18 16:48:50 [INFO] After Scenario Started
+2026-10-18 16:48:50 [INFO] Scenario Name : Verify successful redirection to dashboard after login
+2026-10-18 16:48:50 [INFO] =================================================
+2026-10-18 16:48:50 [INFO] Trace Saved
+2026-10-18 16:48:51 [INFO] Browser Closed
+2026-10-18 16:48:51 [INFO] =================================================
+2026-10-18 16:48:51 [INFO] After Scenario Completed
+2026-10-18 16:48:51 [INFO] =================================================
+2026-10-18 16:49:08 [INFO] logger...
+2026-10-18 16:49:08 [INFO] config...
+2026-10-18 16:49:08 [INFO] BrowserFixture...
+2026-10-18 16:49:08 [INFO] PageFixture...
+2026-10-18 16:49:08 [INFO] BrowserManager...
+2026-10-18 16:49:08 [INFO] TestRailManager...
+2026-10-18 16:49:09 [INFO] logger...
+2026-10-18 16:49:09 [INFO] config...
+2026-10-18 16:49:09 [INFO] BrowserFixture...
+2026-10-18 16:49:09 [INFO] PageFixture...
+2026-10-18 16:49:09 [INFO] BrowserManager...
+2026-10-18 16:49:09 [INFO] TestRailManager...
+2026-10-18 16:49:09 [INFO] =================================================
+2026-10-18 16:49:09 [INFO] Before Scenario Started
+2026-10-18 16:49:09 [INFO] Scenario : Verify user can logout from the dashboard
+2026-10-18 16:49:09 [INFO] =================================================
+2026-10-18 16:49:09 [INFO] Execution Type : Local
+2026-10-18 16:49:09 [INFO] Read TestRail : false
+2026-10-18 16:49:09 [INFO] Update TestRail : false
+2026-10-18 16:49:09 [INFO] Update Lambda : false
+2026-10-18 16:49:09 [INFO] Test Case Id : 5349
+2026-10-18 16:49:09 [INFO] Browser : chromium
+2026-10-18 16:49:10 [INFO] Browser launched successfully.
+2026-10-18 16:49:10 [INFO] Tracing Started
+2026-10-18 16:49:10 [INFO] =================================================
+2026-10-18 16:49:10 [INFO] Before Scenario Completed
+2026-10-18 16:49:10 [INFO] =================================================
+2026-10-18 16:49:12 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:49:12 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:49:12 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:49:12 [INFO] Clicking Logout button
+2026-10-18 16:49:12 [INFO] Click -> (//button[contains(text(), 'Logout')])[1]
+2026-10-18 16:49:15 [INFO] Verifying user is redirected to Login page
+2026-10-18 16:49:17 [INFO] =================================================
+2026-10-18 16:49:17 [INFO] After Scenario Started
+2026-10-18 16:49:17 [INFO] Scenario Name : Verify user can logout from the dashboard
+2026-10-18 16:49:17 [INFO] =================================================
+2026-10-18 16:49:17 [INFO] Trace Saved
+2026-10-18 16:49:18 [INFO] Browser Closed
+2026-10-18 16:49:18 [INFO] =================================================
+2026-10-18 16:49:18 [INFO] After Scenario Completed
+2026-10-18 16:49:18 [INFO] =================================================
+2026-10-18 16:49:37 [INFO] logger...
+2026-10-18 16:49:37 [INFO] config...
+2026-10-18 16:49:37 [INFO] BrowserFixture...
+2026-10-18 16:49:37 [INFO] PageFixture...
+2026-10-18 16:49:37 [INFO] BrowserManager...
+2026-10-18 16:49:37 [INFO] TestRailManager...
+2026-10-18 16:49:38 [INFO] logger...
+2026-10-18 16:49:38 [INFO] config...
+2026-10-18 16:49:38 [INFO] BrowserFixture...
+2026-10-18 16:49:38 [INFO] PageFixture...
+2026-10-18 16:49:38 [INFO] BrowserManager...
+2026-10-18 16:49:38 [INFO] TestRailManager...
+2026-10-18 16:49:38 [INFO] =================================================
+2026-10-18 16:49:38 [INFO] Before Scenario Started
+2026-10-18 16:49:38 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 16:49:38 [INFO] =================================================
+2026-10-18 16:49:38 [INFO] Execution Type : Local
+2026-10-18 16:49:38 [INFO] Read TestRail : false
+2026-10-18 16:49:38 [INFO] Update TestRail : false
+2026-10-18 16:49:38 [INFO] Update Lambda : false
+2026-10-18 16:49:38 [INFO] Test Case Id : 5348
+2026-10-18 16:49:38 [INFO] Browser : chromium
+2026-10-18 16:49:39 [INFO] Browser launched successfully.
+2026-10-18 16:49:39 [INFO] Tracing Started
+2026-10-18 16:49:39 [INFO] =================================================
+2026-10-18 16:49:39 [INFO] Before Scenario Completed
+2026-10-18 16:49:39 [INFO] =================================================
+2026-10-18 16:49:40 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:49:40 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:49:40 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:49:41 [INFO] Verifying practice module 'Basic Elements' is visible on dashboard
+2026-10-18 16:49:43 [INFO] =================================================
+2026-10-18 16:49:43 [INFO] After Scenario Started
+2026-10-18 16:49:43 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 16:49:43 [INFO] =================================================
+2026-10-18 16:49:44 [INFO] Trace Saved
+2026-10-18 16:49:44 [INFO] Browser Closed
+2026-10-18 16:49:44 [INFO] =================================================
+2026-10-18 16:49:44 [INFO] After Scenario Completed
+2026-10-18 16:49:44 [INFO] =================================================
+2026-10-18 16:49:44 [INFO] =================================================
+2026-10-18 16:49:44 [INFO] Before Scenario Started
+2026-10-18 16:49:44 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 16:49:44 [INFO] =================================================
+2026-10-18 16:49:44 [INFO] Execution Type : Local
+2026-10-18 16:49:44 [INFO] Read TestRail : false
+2026-10-18 16:49:44 [INFO] Update TestRail : false
+2026-10-18 16:49:44 [INFO] Update Lambda : false
+2026-10-18 16:49:44 [INFO] Test Case Id : 5348
+2026-10-18 16:49:44 [INFO] Browser : chromium
+2026-10-18 16:49:45 [INFO] Browser launched successfully.
+2026-10-18 16:49:46 [INFO] Tracing Started
+2026-10-18 16:49:46 [INFO] =================================================
+2026-10-18 16:49:46 [INFO] Before Scenario Completed
+2026-10-18 16:49:46 [INFO] =================================================
+2026-10-18 16:49:47 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:49:47 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:49:47 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:49:47 [INFO] Verifying practice module 'Forms' is visible on dashboard
+2026-10-18 16:49:50 [INFO] =================================================
+2026-10-18 16:49:50 [INFO] After Scenario Started
+2026-10-18 16:49:50 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 16:49:50 [INFO] =================================================
+2026-10-18 16:49:50 [INFO] Trace Saved
+2026-10-18 16:49:51 [INFO] Browser Closed
+2026-10-18 16:49:51 [INFO] =================================================
+2026-10-18 16:49:51 [INFO] After Scenario Completed
+2026-10-18 16:49:51 [INFO] =================================================
+2026-10-18 16:49:51 [INFO] =================================================
+2026-10-18 16:49:51 [INFO] Before Scenario Started
+2026-10-18 16:49:51 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 16:49:51 [INFO] =================================================
+2026-10-18 16:49:51 [INFO] Execution Type : Local
+2026-10-18 16:49:51 [INFO] Read TestRail : false
+2026-10-18 16:49:51 [INFO] Update TestRail : false
+2026-10-18 16:49:51 [INFO] Update Lambda : false
+2026-10-18 16:49:51 [INFO] Test Case Id : 5348
+2026-10-18 16:49:51 [INFO] Browser : chromium
+2026-10-18 16:49:52 [INFO] Browser launched successfully.
+2026-10-18 16:49:52 [INFO] Tracing Started
+2026-10-18 16:49:52 [INFO] =================================================
+2026-10-18 16:49:52 [INFO] Before Scenario Completed
+2026-10-18 16:49:52 [INFO] =================================================
+2026-10-18 16:49:53 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:49:53 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:49:53 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:49:53 [INFO] Verifying practice module 'Alerts & Frames' is visible on dashboard
+2026-10-18 16:49:56 [INFO] =================================================
+2026-10-18 16:49:56 [INFO] After Scenario Started
+2026-10-18 16:49:56 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 16:49:56 [INFO] =================================================
+2026-10-18 16:49:56 [INFO] Trace Saved
+2026-10-18 16:49:57 [INFO] Browser Closed
+2026-10-18 16:49:57 [INFO] =================================================
+2026-10-18 16:49:57 [INFO] After Scenario Completed
+2026-10-18 16:49:57 [INFO] =================================================
+2026-10-18 16:49:57 [INFO] =================================================
+2026-10-18 16:49:57 [INFO] Before Scenario Started
+2026-10-18 16:49:57 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 16:49:57 [INFO] =================================================
+2026-10-18 16:49:57 [INFO] Execution Type : Local
+2026-10-18 16:49:57 [INFO] Read TestRail : false
+2026-10-18 16:49:57 [INFO] Update TestRail : false
+2026-10-18 16:49:57 [INFO] Update Lambda : false
+2026-10-18 16:49:57 [INFO] Test Case Id : 5348
+2026-10-18 16:49:57 [INFO] Browser : chromium
+2026-10-18 16:49:58 [INFO] Browser launched successfully.
+2026-10-18 16:49:58 [INFO] Tracing Started
+2026-10-18 16:49:58 [INFO] =================================================
+2026-10-18 16:49:58 [INFO] Before Scenario Completed
+2026-10-18 16:49:58 [INFO] =================================================
+2026-10-18 16:49:59 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:49:59 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:49:59 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:49:59 [INFO] Verifying practice module 'Widgets' is visible on dashboard
+2026-10-18 16:50:02 [INFO] =================================================
+2026-10-18 16:50:02 [INFO] After Scenario Started
+2026-10-18 16:50:02 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:02 [INFO] =================================================
+2026-10-18 16:50:03 [INFO] Trace Saved
+2026-10-18 16:50:03 [INFO] Browser Closed
+2026-10-18 16:50:03 [INFO] =================================================
+2026-10-18 16:50:03 [INFO] After Scenario Completed
+2026-10-18 16:50:03 [INFO] =================================================
+2026-10-18 16:50:03 [INFO] =================================================
+2026-10-18 16:50:03 [INFO] Before Scenario Started
+2026-10-18 16:50:03 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:03 [INFO] =================================================
+2026-10-18 16:50:03 [INFO] Execution Type : Local
+2026-10-18 16:50:03 [INFO] Read TestRail : false
+2026-10-18 16:50:03 [INFO] Update TestRail : false
+2026-10-18 16:50:03 [INFO] Update Lambda : false
+2026-10-18 16:50:03 [INFO] Test Case Id : 5348
+2026-10-18 16:50:03 [INFO] Browser : chromium
+2026-10-18 16:50:04 [INFO] Browser launched successfully.
+2026-10-18 16:50:04 [INFO] Tracing Started
+2026-10-18 16:50:04 [INFO] =================================================
+2026-10-18 16:50:04 [INFO] Before Scenario Completed
+2026-10-18 16:50:04 [INFO] =================================================
+2026-10-18 16:50:06 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:50:06 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:50:06 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:50:06 [INFO] Verifying practice module 'User Interactions' is visible on dashboard
+2026-10-18 16:50:09 [INFO] =================================================
+2026-10-18 16:50:09 [INFO] After Scenario Started
+2026-10-18 16:50:09 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:09 [INFO] =================================================
+2026-10-18 16:50:09 [INFO] Trace Saved
+2026-10-18 16:50:10 [INFO] Browser Closed
+2026-10-18 16:50:10 [INFO] =================================================
+2026-10-18 16:50:10 [INFO] After Scenario Completed
+2026-10-18 16:50:10 [INFO] =================================================
+2026-10-18 16:50:10 [INFO] =================================================
+2026-10-18 16:50:10 [INFO] Before Scenario Started
+2026-10-18 16:50:10 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:10 [INFO] =================================================
+2026-10-18 16:50:10 [INFO] Execution Type : Local
+2026-10-18 16:50:10 [INFO] Read TestRail : false
+2026-10-18 16:50:10 [INFO] Update TestRail : false
+2026-10-18 16:50:10 [INFO] Update Lambda : false
+2026-10-18 16:50:10 [INFO] Test Case Id : 5348
+2026-10-18 16:50:10 [INFO] Browser : chromium
+2026-10-18 16:50:11 [INFO] Browser launched successfully.
+2026-10-18 16:50:11 [INFO] Tracing Started
+2026-10-18 16:50:11 [INFO] =================================================
+2026-10-18 16:50:11 [INFO] Before Scenario Completed
+2026-10-18 16:50:11 [INFO] =================================================
+2026-10-18 16:50:12 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:50:12 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:50:12 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:50:12 [INFO] Verifying practice module 'Web Tables' is visible on dashboard
+2026-10-18 16:50:15 [INFO] =================================================
+2026-10-18 16:50:15 [INFO] After Scenario Started
+2026-10-18 16:50:15 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:15 [INFO] =================================================
+2026-10-18 16:50:15 [INFO] Trace Saved
+2026-10-18 16:50:16 [INFO] Browser Closed
+2026-10-18 16:50:16 [INFO] =================================================
+2026-10-18 16:50:16 [INFO] After Scenario Completed
+2026-10-18 16:50:16 [INFO] =================================================
+2026-10-18 16:50:16 [INFO] =================================================
+2026-10-18 16:50:16 [INFO] Before Scenario Started
+2026-10-18 16:50:16 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:16 [INFO] =================================================
+2026-10-18 16:50:16 [INFO] Execution Type : Local
+2026-10-18 16:50:16 [INFO] Read TestRail : false
+2026-10-18 16:50:16 [INFO] Update TestRail : false
+2026-10-18 16:50:16 [INFO] Update Lambda : false
+2026-10-18 16:50:16 [INFO] Test Case Id : 5348
+2026-10-18 16:50:16 [INFO] Browser : chromium
+2026-10-18 16:50:17 [INFO] Browser launched successfully.
+2026-10-18 16:50:17 [INFO] Tracing Started
+2026-10-18 16:50:17 [INFO] =================================================
+2026-10-18 16:50:17 [INFO] Before Scenario Completed
+2026-10-18 16:50:17 [INFO] =================================================
+2026-10-18 16:50:18 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:50:18 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:50:19 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:50:19 [INFO] Verifying practice module 'File Handling' is visible on dashboard
+2026-10-18 16:50:21 [INFO] =================================================
+2026-10-18 16:50:21 [INFO] After Scenario Started
+2026-10-18 16:50:21 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:21 [INFO] =================================================
+2026-10-18 16:50:22 [INFO] Trace Saved
+2026-10-18 16:50:22 [INFO] Browser Closed
+2026-10-18 16:50:22 [INFO] =================================================
+2026-10-18 16:50:22 [INFO] After Scenario Completed
+2026-10-18 16:50:22 [INFO] =================================================
+2026-10-18 16:50:22 [INFO] =================================================
+2026-10-18 16:50:22 [INFO] Before Scenario Started
+2026-10-18 16:50:22 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:22 [INFO] =================================================
+2026-10-18 16:50:22 [INFO] Execution Type : Local
+2026-10-18 16:50:22 [INFO] Read TestRail : false
+2026-10-18 16:50:22 [INFO] Update TestRail : false
+2026-10-18 16:50:22 [INFO] Update Lambda : false
+2026-10-18 16:50:22 [INFO] Test Case Id : 5348
+2026-10-18 16:50:22 [INFO] Browser : chromium
+2026-10-18 16:50:23 [INFO] Browser launched successfully.
+2026-10-18 16:50:24 [INFO] Tracing Started
+2026-10-18 16:50:24 [INFO] =================================================
+2026-10-18 16:50:24 [INFO] Before Scenario Completed
+2026-10-18 16:50:24 [INFO] =================================================
+2026-10-18 16:50:25 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:50:25 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:50:25 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:50:25 [INFO] Verifying practice module 'Authentication' is visible on dashboard
+2026-10-18 16:50:28 [INFO] =================================================
+2026-10-18 16:50:28 [INFO] After Scenario Started
+2026-10-18 16:50:28 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:28 [INFO] =================================================
+2026-10-18 16:50:28 [INFO] Trace Saved
+2026-10-18 16:50:29 [INFO] Browser Closed
+2026-10-18 16:50:29 [INFO] =================================================
+2026-10-18 16:50:29 [INFO] After Scenario Completed
+2026-10-18 16:50:29 [INFO] =================================================
+2026-10-18 16:50:29 [INFO] =================================================
+2026-10-18 16:50:29 [INFO] Before Scenario Started
+2026-10-18 16:50:29 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:29 [INFO] =================================================
+2026-10-18 16:50:29 [INFO] Execution Type : Local
+2026-10-18 16:50:29 [INFO] Read TestRail : false
+2026-10-18 16:50:29 [INFO] Update TestRail : false
+2026-10-18 16:50:29 [INFO] Update Lambda : false
+2026-10-18 16:50:29 [INFO] Test Case Id : 5348
+2026-10-18 16:50:29 [INFO] Browser : chromium
+2026-10-18 16:50:30 [INFO] Browser launched successfully.
+2026-10-18 16:50:30 [INFO] Tracing Started
+2026-10-18 16:50:30 [INFO] =================================================
+2026-10-18 16:50:30 [INFO] Before Scenario Completed
+2026-10-18 16:50:30 [INFO] =================================================
+2026-10-18 16:50:31 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:50:31 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:50:31 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:50:32 [INFO] Verifying practice module 'API Testing' is visible on dashboard
+2026-10-18 16:50:34 [INFO] =================================================
+2026-10-18 16:50:34 [INFO] After Scenario Started
+2026-10-18 16:50:34 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:34 [INFO] =================================================
+2026-10-18 16:50:35 [INFO] Trace Saved
+2026-10-18 16:50:35 [INFO] Browser Closed
+2026-10-18 16:50:35 [INFO] =================================================
+2026-10-18 16:50:35 [INFO] After Scenario Completed
+2026-10-18 16:50:35 [INFO] =================================================
+2026-10-18 16:50:35 [INFO] =================================================
+2026-10-18 16:50:35 [INFO] Before Scenario Started
+2026-10-18 16:50:35 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:35 [INFO] =================================================
+2026-10-18 16:50:35 [INFO] Execution Type : Local
+2026-10-18 16:50:35 [INFO] Read TestRail : false
+2026-10-18 16:50:35 [INFO] Update TestRail : false
+2026-10-18 16:50:35 [INFO] Update Lambda : false
+2026-10-18 16:50:35 [INFO] Test Case Id : 5348
+2026-10-18 16:50:35 [INFO] Browser : chromium
+2026-10-18 16:50:36 [INFO] Browser launched successfully.
+2026-10-18 16:50:36 [INFO] Tracing Started
+2026-10-18 16:50:36 [INFO] =================================================
+2026-10-18 16:50:36 [INFO] Before Scenario Completed
+2026-10-18 16:50:36 [INFO] =================================================
+2026-10-18 16:50:37 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:50:38 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:50:38 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:50:38 [INFO] Verifying practice module 'Broken Links' is visible on dashboard
+2026-10-18 16:50:40 [INFO] =================================================
+2026-10-18 16:50:40 [INFO] After Scenario Started
+2026-10-18 16:50:40 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 16:50:40 [INFO] =================================================
+2026-10-18 16:50:41 [INFO] Trace Saved
+2026-10-18 16:50:41 [INFO] Browser Closed
+2026-10-18 16:50:41 [INFO] =================================================
+2026-10-18 16:50:41 [INFO] After Scenario Completed
+2026-10-18 16:50:41 [INFO] =================================================
+2026-10-18 16:50:58 [INFO] logger...
+2026-10-18 16:50:58 [INFO] config...
+2026-10-18 16:50:58 [INFO] BrowserFixture...
+2026-10-18 16:50:58 [INFO] PageFixture...
+2026-10-18 16:50:58 [INFO] BrowserManager...
+2026-10-18 16:50:58 [INFO] TestRailManager...
+2026-10-18 16:50:59 [INFO] logger...
+2026-10-18 16:50:59 [INFO] config...
+2026-10-18 16:50:59 [INFO] BrowserFixture...
+2026-10-18 16:50:59 [INFO] PageFixture...
+2026-10-18 16:50:59 [INFO] BrowserManager...
+2026-10-18 16:50:59 [INFO] TestRailManager...
+2026-10-18 16:50:59 [INFO] =================================================
+2026-10-18 16:50:59 [INFO] Before Scenario Started
+2026-10-18 16:50:59 [INFO] Scenario : Verify the login functionality of the application using valid credential
+2026-10-18 16:50:59 [INFO] =================================================
+2026-10-18 16:50:59 [INFO] Execution Type : Local
+2026-10-18 16:50:59 [INFO] Read TestRail : false
+2026-10-18 16:50:59 [INFO] Update TestRail : false
+2026-10-18 16:50:59 [INFO] Update Lambda : false
+2026-10-18 16:50:59 [INFO] Test Case Id : 5948
+2026-10-18 16:50:59 [INFO] Browser : chromium
+2026-10-18 16:51:00 [INFO] Browser launched successfully.
+2026-10-18 16:51:01 [INFO] Tracing Started
+2026-10-18 16:51:01 [INFO] =================================================
+2026-10-18 16:51:01 [INFO] Before Scenario Completed
+2026-10-18 16:51:01 [INFO] =================================================
+2026-10-18 16:51:02 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 16:51:02 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 16:51:02 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 16:51:02 [INFO] Waiting for dashboard popup message
+2026-10-18 16:51:05 [INFO] =================================================
+2026-10-18 16:51:05 [INFO] After Scenario Started
+2026-10-18 16:51:05 [INFO] Scenario Name : Verify the login functionality of the application using valid credential
+2026-10-18 16:51:05 [INFO] =================================================
+2026-10-18 16:51:05 [INFO] Trace Saved
+2026-10-18 16:51:06 [INFO] Browser Closed
+2026-10-18 16:51:06 [INFO] =================================================
+2026-10-18 16:51:06 [INFO] After Scenario Completed
+2026-10-18 16:51:06 [INFO] =================================================
+2026-10-18 17:13:40 [INFO] logger...
+2026-10-18 17:13:40 [INFO] config...
+2026-10-18 17:13:40 [INFO] BrowserFixture...
+2026-10-18 17:13:40 [INFO] PageFixture...
+2026-10-18 17:13:40 [INFO] BrowserManager...
+2026-10-18 17:13:40 [INFO] TestRailManager...
+2026-10-18 17:13:42 [INFO] logger...
+2026-10-18 17:13:42 [INFO] config...
+2026-10-18 17:13:42 [INFO] BrowserFixture...
+2026-10-18 17:13:42 [INFO] PageFixture...
+2026-10-18 17:13:42 [INFO] BrowserManager...
+2026-10-18 17:13:42 [INFO] TestRailManager...
+2026-10-18 17:13:42 [INFO] =================================================
+2026-10-18 17:13:42 [INFO] Before Scenario Started
+2026-10-18 17:13:42 [INFO] Scenario : Verify successful redirection to dashboard after login
+2026-10-18 17:13:42 [INFO] =================================================
+2026-10-18 17:13:42 [INFO] Execution Type : Local
+2026-10-18 17:13:42 [INFO] Read TestRail : false
+2026-10-18 17:13:42 [INFO] Update TestRail : false
+2026-10-18 17:13:42 [INFO] Update Lambda : false
+2026-10-18 17:13:42 [INFO] Test Case Id : 5347
+2026-10-18 17:13:42 [INFO] Browser : chromium
+2026-10-18 17:13:43 [INFO] Browser launched successfully.
+2026-10-18 17:13:43 [INFO] Tracing Started
+2026-10-18 17:13:43 [INFO] =================================================
+2026-10-18 17:13:43 [INFO] Before Scenario Completed
+2026-10-18 17:13:43 [INFO] =================================================
+2026-10-18 17:13:44 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:13:45 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:13:45 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:13:45 [INFO] Verifying user is on Dashboard / Home URL
+2026-10-18 17:13:47 [INFO] Verifying login success popup is visible
+2026-10-18 17:13:47 [INFO] =================================================
+2026-10-18 17:13:47 [INFO] After Scenario Started
+2026-10-18 17:13:47 [INFO] Scenario Name : Verify successful redirection to dashboard after login
+2026-10-18 17:13:47 [INFO] =================================================
+2026-10-18 17:13:48 [INFO] Trace Saved
+2026-10-18 17:13:49 [INFO] Browser Closed
+2026-10-18 17:13:49 [INFO] =================================================
+2026-10-18 17:13:49 [INFO] After Scenario Completed
+2026-10-18 17:13:49 [INFO] =================================================
+2026-10-18 17:13:49 [INFO] =================================================
+2026-10-18 17:13:49 [INFO] Before Scenario Started
+2026-10-18 17:13:49 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 17:13:49 [INFO] =================================================
+2026-10-18 17:13:49 [INFO] Execution Type : Local
+2026-10-18 17:13:49 [INFO] Read TestRail : false
+2026-10-18 17:13:49 [INFO] Update TestRail : false
+2026-10-18 17:13:49 [INFO] Update Lambda : false
+2026-10-18 17:13:49 [INFO] Test Case Id : 5348
+2026-10-18 17:13:49 [INFO] Browser : chromium
+2026-10-18 17:13:50 [INFO] Browser launched successfully.
+2026-10-18 17:13:50 [INFO] Tracing Started
+2026-10-18 17:13:50 [INFO] =================================================
+2026-10-18 17:13:50 [INFO] Before Scenario Completed
+2026-10-18 17:13:50 [INFO] =================================================
+2026-10-18 17:13:51 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:13:51 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:13:51 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:13:51 [INFO] Verifying practice module 'Basic Elements' is visible on dashboard
+2026-10-18 17:13:54 [INFO] =================================================
+2026-10-18 17:13:54 [INFO] After Scenario Started
+2026-10-18 17:13:54 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 17:13:54 [INFO] =================================================
+2026-10-18 17:13:54 [INFO] Trace Saved
+2026-10-18 17:13:55 [INFO] Browser Closed
+2026-10-18 17:13:55 [INFO] =================================================
+2026-10-18 17:13:55 [INFO] After Scenario Completed
+2026-10-18 17:13:55 [INFO] =================================================
+2026-10-18 17:13:55 [INFO] =================================================
+2026-10-18 17:13:55 [INFO] Before Scenario Started
+2026-10-18 17:13:55 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 17:13:55 [INFO] =================================================
+2026-10-18 17:13:55 [INFO] Execution Type : Local
+2026-10-18 17:13:55 [INFO] Read TestRail : false
+2026-10-18 17:13:55 [INFO] Update TestRail : false
+2026-10-18 17:13:55 [INFO] Update Lambda : false
+2026-10-18 17:13:55 [INFO] Test Case Id : 5348
+2026-10-18 17:13:55 [INFO] Browser : chromium
+2026-10-18 17:13:56 [INFO] Browser launched successfully.
+2026-10-18 17:13:56 [INFO] Tracing Started
+2026-10-18 17:13:56 [INFO] =================================================
+2026-10-18 17:13:56 [INFO] Before Scenario Completed
+2026-10-18 17:13:56 [INFO] =================================================
+2026-10-18 17:13:57 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:13:57 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:13:57 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:13:58 [INFO] Verifying practice module 'Forms' is visible on dashboard
+2026-10-18 17:14:00 [INFO] =================================================
+2026-10-18 17:14:00 [INFO] After Scenario Started
+2026-10-18 17:14:00 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:00 [INFO] =================================================
+2026-10-18 17:14:00 [INFO] Trace Saved
+2026-10-18 17:14:01 [INFO] Browser Closed
+2026-10-18 17:14:01 [INFO] =================================================
+2026-10-18 17:14:01 [INFO] After Scenario Completed
+2026-10-18 17:14:01 [INFO] =================================================
+2026-10-18 17:14:01 [INFO] =================================================
+2026-10-18 17:14:01 [INFO] Before Scenario Started
+2026-10-18 17:14:01 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:01 [INFO] =================================================
+2026-10-18 17:14:01 [INFO] Execution Type : Local
+2026-10-18 17:14:01 [INFO] Read TestRail : false
+2026-10-18 17:14:01 [INFO] Update TestRail : false
+2026-10-18 17:14:01 [INFO] Update Lambda : false
+2026-10-18 17:14:01 [INFO] Test Case Id : 5348
+2026-10-18 17:14:01 [INFO] Browser : chromium
+2026-10-18 17:14:02 [INFO] Browser launched successfully.
+2026-10-18 17:14:02 [INFO] Tracing Started
+2026-10-18 17:14:02 [INFO] =================================================
+2026-10-18 17:14:02 [INFO] Before Scenario Completed
+2026-10-18 17:14:02 [INFO] =================================================
+2026-10-18 17:14:03 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:14:03 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:14:04 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:14:04 [INFO] Verifying practice module 'Alerts & Frames' is visible on dashboard
+2026-10-18 17:14:06 [INFO] =================================================
+2026-10-18 17:14:06 [INFO] After Scenario Started
+2026-10-18 17:14:06 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:06 [INFO] =================================================
+2026-10-18 17:14:07 [INFO] Trace Saved
+2026-10-18 17:14:07 [INFO] Browser Closed
+2026-10-18 17:14:07 [INFO] =================================================
+2026-10-18 17:14:07 [INFO] After Scenario Completed
+2026-10-18 17:14:07 [INFO] =================================================
+2026-10-18 17:14:07 [INFO] =================================================
+2026-10-18 17:14:07 [INFO] Before Scenario Started
+2026-10-18 17:14:07 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:07 [INFO] =================================================
+2026-10-18 17:14:07 [INFO] Execution Type : Local
+2026-10-18 17:14:07 [INFO] Read TestRail : false
+2026-10-18 17:14:07 [INFO] Update TestRail : false
+2026-10-18 17:14:07 [INFO] Update Lambda : false
+2026-10-18 17:14:07 [INFO] Test Case Id : 5348
+2026-10-18 17:14:07 [INFO] Browser : chromium
+2026-10-18 17:14:08 [INFO] Browser launched successfully.
+2026-10-18 17:14:08 [INFO] Tracing Started
+2026-10-18 17:14:08 [INFO] =================================================
+2026-10-18 17:14:08 [INFO] Before Scenario Completed
+2026-10-18 17:14:08 [INFO] =================================================
+2026-10-18 17:14:09 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:14:09 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:14:10 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:14:10 [INFO] Verifying practice module 'Widgets' is visible on dashboard
+2026-10-18 17:14:12 [INFO] =================================================
+2026-10-18 17:14:12 [INFO] After Scenario Started
+2026-10-18 17:14:12 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:12 [INFO] =================================================
+2026-10-18 17:14:13 [INFO] Trace Saved
+2026-10-18 17:14:13 [INFO] Browser Closed
+2026-10-18 17:14:13 [INFO] =================================================
+2026-10-18 17:14:13 [INFO] After Scenario Completed
+2026-10-18 17:14:13 [INFO] =================================================
+2026-10-18 17:14:13 [INFO] =================================================
+2026-10-18 17:14:13 [INFO] Before Scenario Started
+2026-10-18 17:14:13 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:13 [INFO] =================================================
+2026-10-18 17:14:13 [INFO] Execution Type : Local
+2026-10-18 17:14:13 [INFO] Read TestRail : false
+2026-10-18 17:14:13 [INFO] Update TestRail : false
+2026-10-18 17:14:13 [INFO] Update Lambda : false
+2026-10-18 17:14:13 [INFO] Test Case Id : 5348
+2026-10-18 17:14:13 [INFO] Browser : chromium
+2026-10-18 17:14:14 [INFO] Browser launched successfully.
+2026-10-18 17:14:14 [INFO] Tracing Started
+2026-10-18 17:14:14 [INFO] =================================================
+2026-10-18 17:14:14 [INFO] Before Scenario Completed
+2026-10-18 17:14:14 [INFO] =================================================
+2026-10-18 17:14:15 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:14:16 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:14:16 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:14:16 [INFO] Verifying practice module 'User Interactions' is visible on dashboard
+2026-10-18 17:14:19 [INFO] =================================================
+2026-10-18 17:14:19 [INFO] After Scenario Started
+2026-10-18 17:14:19 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:19 [INFO] =================================================
+2026-10-18 17:14:19 [INFO] Trace Saved
+2026-10-18 17:14:20 [INFO] Browser Closed
+2026-10-18 17:14:20 [INFO] =================================================
+2026-10-18 17:14:20 [INFO] After Scenario Completed
+2026-10-18 17:14:20 [INFO] =================================================
+2026-10-18 17:14:20 [INFO] =================================================
+2026-10-18 17:14:20 [INFO] Before Scenario Started
+2026-10-18 17:14:20 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:20 [INFO] =================================================
+2026-10-18 17:14:20 [INFO] Execution Type : Local
+2026-10-18 17:14:20 [INFO] Read TestRail : false
+2026-10-18 17:14:20 [INFO] Update TestRail : false
+2026-10-18 17:14:20 [INFO] Update Lambda : false
+2026-10-18 17:14:20 [INFO] Test Case Id : 5348
+2026-10-18 17:14:20 [INFO] Browser : chromium
+2026-10-18 17:14:21 [INFO] Browser launched successfully.
+2026-10-18 17:14:21 [INFO] Tracing Started
+2026-10-18 17:14:21 [INFO] =================================================
+2026-10-18 17:14:21 [INFO] Before Scenario Completed
+2026-10-18 17:14:21 [INFO] =================================================
+2026-10-18 17:14:22 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:14:22 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:14:22 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:14:22 [INFO] Verifying practice module 'Web Tables' is visible on dashboard
+2026-10-18 17:14:25 [INFO] =================================================
+2026-10-18 17:14:25 [INFO] After Scenario Started
+2026-10-18 17:14:25 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:25 [INFO] =================================================
+2026-10-18 17:14:25 [INFO] Trace Saved
+2026-10-18 17:14:26 [INFO] Browser Closed
+2026-10-18 17:14:26 [INFO] =================================================
+2026-10-18 17:14:26 [INFO] After Scenario Completed
+2026-10-18 17:14:26 [INFO] =================================================
+2026-10-18 17:14:26 [INFO] =================================================
+2026-10-18 17:14:26 [INFO] Before Scenario Started
+2026-10-18 17:14:26 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:26 [INFO] =================================================
+2026-10-18 17:14:26 [INFO] Execution Type : Local
+2026-10-18 17:14:26 [INFO] Read TestRail : false
+2026-10-18 17:14:26 [INFO] Update TestRail : false
+2026-10-18 17:14:26 [INFO] Update Lambda : false
+2026-10-18 17:14:26 [INFO] Test Case Id : 5348
+2026-10-18 17:14:26 [INFO] Browser : chromium
+2026-10-18 17:14:27 [INFO] Browser launched successfully.
+2026-10-18 17:14:27 [INFO] Tracing Started
+2026-10-18 17:14:27 [INFO] =================================================
+2026-10-18 17:14:27 [INFO] Before Scenario Completed
+2026-10-18 17:14:27 [INFO] =================================================
+2026-10-18 17:14:28 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:14:28 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:14:28 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:14:29 [INFO] Verifying practice module 'File Handling' is visible on dashboard
+2026-10-18 17:14:31 [INFO] =================================================
+2026-10-18 17:14:31 [INFO] After Scenario Started
+2026-10-18 17:14:31 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:31 [INFO] =================================================
+2026-10-18 17:14:32 [INFO] Trace Saved
+2026-10-18 17:14:32 [INFO] Browser Closed
+2026-10-18 17:14:32 [INFO] =================================================
+2026-10-18 17:14:32 [INFO] After Scenario Completed
+2026-10-18 17:14:32 [INFO] =================================================
+2026-10-18 17:14:32 [INFO] =================================================
+2026-10-18 17:14:32 [INFO] Before Scenario Started
+2026-10-18 17:14:32 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:32 [INFO] =================================================
+2026-10-18 17:14:32 [INFO] Execution Type : Local
+2026-10-18 17:14:32 [INFO] Read TestRail : false
+2026-10-18 17:14:32 [INFO] Update TestRail : false
+2026-10-18 17:14:32 [INFO] Update Lambda : false
+2026-10-18 17:14:32 [INFO] Test Case Id : 5348
+2026-10-18 17:14:32 [INFO] Browser : chromium
+2026-10-18 17:14:33 [INFO] Browser launched successfully.
+2026-10-18 17:14:33 [INFO] Tracing Started
+2026-10-18 17:14:33 [INFO] =================================================
+2026-10-18 17:14:33 [INFO] Before Scenario Completed
+2026-10-18 17:14:33 [INFO] =================================================
+2026-10-18 17:14:34 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:14:34 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:14:35 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:14:35 [INFO] Verifying practice module 'Authentication' is visible on dashboard
+2026-10-18 17:14:37 [INFO] =================================================
+2026-10-18 17:14:37 [INFO] After Scenario Started
+2026-10-18 17:14:37 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:37 [INFO] =================================================
+2026-10-18 17:14:38 [INFO] Trace Saved
+2026-10-18 17:14:38 [INFO] Browser Closed
+2026-10-18 17:14:38 [INFO] =================================================
+2026-10-18 17:14:38 [INFO] After Scenario Completed
+2026-10-18 17:14:38 [INFO] =================================================
+2026-10-18 17:14:38 [INFO] =================================================
+2026-10-18 17:14:38 [INFO] Before Scenario Started
+2026-10-18 17:14:38 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:38 [INFO] =================================================
+2026-10-18 17:14:38 [INFO] Execution Type : Local
+2026-10-18 17:14:38 [INFO] Read TestRail : false
+2026-10-18 17:14:38 [INFO] Update TestRail : false
+2026-10-18 17:14:38 [INFO] Update Lambda : false
+2026-10-18 17:14:38 [INFO] Test Case Id : 5348
+2026-10-18 17:14:38 [INFO] Browser : chromium
+2026-10-18 17:14:39 [INFO] Browser launched successfully.
+2026-10-18 17:14:39 [INFO] Tracing Started
+2026-10-18 17:14:39 [INFO] =================================================
+2026-10-18 17:14:39 [INFO] Before Scenario Completed
+2026-10-18 17:14:39 [INFO] =================================================
+2026-10-18 17:14:41 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:14:41 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:14:41 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:14:41 [INFO] Verifying practice module 'API Testing' is visible on dashboard
+2026-10-18 17:14:44 [INFO] =================================================
+2026-10-18 17:14:44 [INFO] After Scenario Started
+2026-10-18 17:14:44 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:44 [INFO] =================================================
+2026-10-18 17:14:44 [INFO] Trace Saved
+2026-10-18 17:14:45 [INFO] Browser Closed
+2026-10-18 17:14:45 [INFO] =================================================
+2026-10-18 17:14:45 [INFO] After Scenario Completed
+2026-10-18 17:14:45 [INFO] =================================================
+2026-10-18 17:14:45 [INFO] =================================================
+2026-10-18 17:14:45 [INFO] Before Scenario Started
+2026-10-18 17:14:45 [INFO] Scenario : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:45 [INFO] =================================================
+2026-10-18 17:14:45 [INFO] Execution Type : Local
+2026-10-18 17:14:45 [INFO] Read TestRail : false
+2026-10-18 17:14:45 [INFO] Update TestRail : false
+2026-10-18 17:14:45 [INFO] Update Lambda : false
+2026-10-18 17:14:45 [INFO] Test Case Id : 5348
+2026-10-18 17:14:45 [INFO] Browser : chromium
+2026-10-18 17:14:46 [INFO] Browser launched successfully.
+2026-10-18 17:14:46 [INFO] Tracing Started
+2026-10-18 17:14:46 [INFO] =================================================
+2026-10-18 17:14:46 [INFO] Before Scenario Completed
+2026-10-18 17:14:46 [INFO] =================================================
+2026-10-18 17:14:47 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:14:47 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:14:47 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:14:47 [INFO] Verifying practice module 'Broken Links' is visible on dashboard
+2026-10-18 17:14:50 [INFO] =================================================
+2026-10-18 17:14:50 [INFO] After Scenario Started
+2026-10-18 17:14:50 [INFO] Scenario Name : Verify key practice modules are displayed on dashboard
+2026-10-18 17:14:50 [INFO] =================================================
+2026-10-18 17:14:50 [INFO] Trace Saved
+2026-10-18 17:14:51 [INFO] Browser Closed
+2026-10-18 17:14:51 [INFO] =================================================
+2026-10-18 17:14:51 [INFO] After Scenario Completed
+2026-10-18 17:14:51 [INFO] =================================================
+2026-10-18 17:14:51 [INFO] =================================================
+2026-10-18 17:14:51 [INFO] Before Scenario Started
+2026-10-18 17:14:51 [INFO] Scenario : Verify user can logout from the dashboard
+2026-10-18 17:14:51 [INFO] =================================================
+2026-10-18 17:14:51 [INFO] Execution Type : Local
+2026-10-18 17:14:51 [INFO] Read TestRail : false
+2026-10-18 17:14:51 [INFO] Update TestRail : false
+2026-10-18 17:14:51 [INFO] Update Lambda : false
+2026-10-18 17:14:51 [INFO] Test Case Id : 5349
+2026-10-18 17:14:51 [INFO] Browser : chromium
+2026-10-18 17:14:52 [INFO] Browser launched successfully.
+2026-10-18 17:14:52 [INFO] Tracing Started
+2026-10-18 17:14:52 [INFO] =================================================
+2026-10-18 17:14:52 [INFO] Before Scenario Completed
+2026-10-18 17:14:52 [INFO] =================================================
+2026-10-18 17:14:53 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:14:53 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:14:53 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:14:53 [INFO] Clicking Logout button
+2026-10-18 17:14:53 [INFO] Click -> (//button[contains(text(), 'Logout')])[1]
+2026-10-18 17:14:56 [INFO] Verifying user is redirected to Login page
+2026-10-18 17:14:58 [INFO] =================================================
+2026-10-18 17:14:58 [INFO] After Scenario Started
+2026-10-18 17:14:58 [INFO] Scenario Name : Verify user can logout from the dashboard
+2026-10-18 17:14:58 [INFO] =================================================
+2026-10-18 17:14:58 [INFO] Trace Saved
+2026-10-18 17:14:58 [INFO] Browser Closed
+2026-10-18 17:14:58 [INFO] =================================================
+2026-10-18 17:14:58 [INFO] After Scenario Completed
+2026-10-18 17:14:58 [INFO] =================================================
+2026-10-18 17:13:37 [INFO] ======================================
+2026-10-18 17:13:37 [INFO]  Playwright Enterprise Test Runner
+2026-10-18 17:13:37 [INFO] ======================================
+2026-10-18 17:13:37 [INFO] Environment : qa
+2026-10-18 17:13:37 [INFO] Browser    : chromium
+2026-10-18 17:13:37 [INFO] Parallel   : 1
+2026-10-18 17:13:37 [INFO] Tag        :  @C5347 or @C5348 or @C5349
+2026-10-18 17:13:37 [INFO] --------------------------------------
+2026-10-18 17:13:37 [INFO] Command : npx cucumber-js --tags " @C5347 or @C5348 or @C5349" --parallel 1
+2026-10-18 17:13:37 [INFO] ======================================
+2026-10-18 17:13:37 [INFO] ===============In Test runner before ExecSync=======================
+2026-10-18 17:25:39 [INFO] logger...
+2026-10-18 17:25:39 [INFO] config...
+2026-10-18 17:25:39 [INFO] BrowserFixture...
+2026-10-18 17:25:39 [INFO] PageFixture...
+2026-10-18 17:25:39 [INFO] BrowserManager...
+2026-10-18 17:25:39 [INFO] TestRailManager...
+2026-10-18 17:25:40 [INFO] logger...
+2026-10-18 17:25:40 [INFO] config...
+2026-10-18 17:25:40 [INFO] BrowserFixture...
+2026-10-18 17:25:40 [INFO] PageFixture...
+2026-10-18 17:25:40 [INFO] BrowserManager...
+2026-10-18 17:25:40 [INFO] TestRailManager...
+2026-10-18 17:25:40 [INFO] =================================================
+2026-10-18 17:25:40 [INFO] Before Scenario Started
+2026-10-18 17:25:40 [INFO] Scenario : Verify user can add an available product to the cart
+2026-10-18 17:25:40 [INFO] =================================================
+2026-10-18 17:25:40 [INFO] Execution Type : Local
+2026-10-18 17:25:40 [INFO] Read TestRail : false
+2026-10-18 17:25:40 [INFO] Update TestRail : false
+2026-10-18 17:25:40 [INFO] Update Lambda : false
+2026-10-18 17:25:40 [INFO] Test Case Id : 6001
+2026-10-18 17:25:40 [INFO] Browser : chromium
+2026-10-18 17:25:41 [INFO] Browser launched successfully.
+2026-10-18 17:25:41 [INFO] Tracing Started
+2026-10-18 17:25:41 [INFO] =================================================
+2026-10-18 17:25:41 [INFO] Before Scenario Completed
+2026-10-18 17:25:41 [INFO] =================================================
+2026-10-18 17:25:42 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:25:42 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:25:43 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:25:43 [INFO] Navigating to Products page via header link
+2026-10-18 17:25:43 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:25:46 [INFO] Adding product to cart: iPhone
+2026-10-18 17:25:46 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='iPhone']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:25:46 [INFO] Verifying item added success notification
+2026-10-18 17:25:46 [INFO] Navigating to Cart page
+2026-10-18 17:25:46 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 17:25:49 [INFO] Verifying cart badge count equals 1
+2026-10-18 17:25:49 [INFO] Verifying product 'iPhone' is present in cart
+2026-10-18 17:25:49 [INFO] =================================================
+2026-10-18 17:25:49 [INFO] After Scenario Started
+2026-10-18 17:25:49 [INFO] Scenario Name : Verify user can add an available product to the cart
+2026-10-18 17:25:49 [INFO] =================================================
+2026-10-18 17:25:50 [INFO] Trace Saved
+2026-10-18 17:25:51 [INFO] Browser Closed
+2026-10-18 17:25:51 [INFO] =================================================
+2026-10-18 17:25:51 [INFO] After Scenario Completed
+2026-10-18 17:25:51 [INFO] =================================================
+2026-10-18 17:25:51 [INFO] =================================================
+2026-10-18 17:25:51 [INFO] Before Scenario Started
+2026-10-18 17:25:51 [INFO] Scenario : Verify user can add different available products to the cart
+2026-10-18 17:25:51 [INFO] =================================================
+2026-10-18 17:25:51 [INFO] Execution Type : Local
+2026-10-18 17:25:51 [INFO] Read TestRail : false
+2026-10-18 17:25:51 [INFO] Update TestRail : false
+2026-10-18 17:25:51 [INFO] Update Lambda : false
+2026-10-18 17:25:51 [INFO] Test Case Id : 6002
+2026-10-18 17:25:51 [INFO] Browser : chromium
+2026-10-18 17:25:51 [INFO] Browser launched successfully.
+2026-10-18 17:25:52 [INFO] Tracing Started
+2026-10-18 17:25:52 [INFO] =================================================
+2026-10-18 17:25:52 [INFO] Before Scenario Completed
+2026-10-18 17:25:52 [INFO] =================================================
+2026-10-18 17:25:53 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:25:53 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:25:53 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:25:53 [INFO] Navigating to Products page via header link
+2026-10-18 17:25:53 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:25:56 [INFO] Adding product to cart: iPhone
+2026-10-18 17:25:56 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='iPhone']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:25:57 [INFO] Verifying item added success notification
+2026-10-18 17:25:57 [INFO] Navigating to Cart page
+2026-10-18 17:25:57 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 17:25:59 [INFO] Verifying product 'iPhone' is present in cart
+2026-10-18 17:25:59 [INFO] =================================================
+2026-10-18 17:25:59 [INFO] After Scenario Started
+2026-10-18 17:25:59 [INFO] Scenario Name : Verify user can add different available products to the cart
+2026-10-18 17:25:59 [INFO] =================================================
+2026-10-18 17:26:00 [INFO] Trace Saved
+2026-10-18 17:26:01 [INFO] Browser Closed
+2026-10-18 17:26:01 [INFO] =================================================
+2026-10-18 17:26:01 [INFO] After Scenario Completed
+2026-10-18 17:26:01 [INFO] =================================================
+2026-10-18 17:26:01 [INFO] =================================================
+2026-10-18 17:26:01 [INFO] Before Scenario Started
+2026-10-18 17:26:01 [INFO] Scenario : Verify user can add different available products to the cart
+2026-10-18 17:26:01 [INFO] =================================================
+2026-10-18 17:26:01 [INFO] Execution Type : Local
+2026-10-18 17:26:01 [INFO] Read TestRail : false
+2026-10-18 17:26:01 [INFO] Update TestRail : false
+2026-10-18 17:26:01 [INFO] Update Lambda : false
+2026-10-18 17:26:01 [INFO] Test Case Id : 6002
+2026-10-18 17:26:01 [INFO] Browser : chromium
+2026-10-18 17:26:02 [INFO] Browser launched successfully.
+2026-10-18 17:26:02 [INFO] Tracing Started
+2026-10-18 17:26:02 [INFO] =================================================
+2026-10-18 17:26:02 [INFO] Before Scenario Completed
+2026-10-18 17:26:02 [INFO] =================================================
+2026-10-18 17:26:03 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:26:03 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:26:03 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:26:04 [INFO] Navigating to Products page via header link
+2026-10-18 17:26:04 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:26:06 [INFO] Adding product to cart: Camera
+2026-10-18 17:26:07 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Camera']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:26:07 [INFO] Verifying item added success notification
+2026-10-18 17:26:07 [INFO] Navigating to Cart page
+2026-10-18 17:26:07 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 17:26:09 [INFO] Verifying product 'Camera' is present in cart
+2026-10-18 17:26:09 [INFO] =================================================
+2026-10-18 17:26:09 [INFO] After Scenario Started
+2026-10-18 17:26:09 [INFO] Scenario Name : Verify user can add different available products to the cart
+2026-10-18 17:26:09 [INFO] =================================================
+2026-10-18 17:26:10 [INFO] Trace Saved
+2026-10-18 17:26:11 [INFO] Browser Closed
+2026-10-18 17:26:11 [INFO] =================================================
+2026-10-18 17:26:11 [INFO] After Scenario Completed
+2026-10-18 17:26:11 [INFO] =================================================
+2026-10-18 17:26:11 [INFO] =================================================
+2026-10-18 17:26:11 [INFO] Before Scenario Started
+2026-10-18 17:26:11 [INFO] Scenario : Verify user can add different available products to the cart
+2026-10-18 17:26:11 [INFO] =================================================
+2026-10-18 17:26:11 [INFO] Execution Type : Local
+2026-10-18 17:26:11 [INFO] Read TestRail : false
+2026-10-18 17:26:11 [INFO] Update TestRail : false
+2026-10-18 17:26:11 [INFO] Update Lambda : false
+2026-10-18 17:26:11 [INFO] Test Case Id : 6002
+2026-10-18 17:26:11 [INFO] Browser : chromium
+2026-10-18 17:26:12 [INFO] Browser launched successfully.
+2026-10-18 17:26:12 [INFO] Tracing Started
+2026-10-18 17:26:12 [INFO] =================================================
+2026-10-18 17:26:12 [INFO] Before Scenario Completed
+2026-10-18 17:26:12 [INFO] =================================================
+2026-10-18 17:26:13 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:26:13 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:26:13 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:26:14 [INFO] Navigating to Products page via header link
+2026-10-18 17:26:14 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:26:16 [INFO] Adding product to cart: Purse
+2026-10-18 17:26:17 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Purse']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:26:17 [INFO] Verifying item added success notification
+2026-10-18 17:26:17 [INFO] Navigating to Cart page
+2026-10-18 17:26:17 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 17:26:19 [INFO] Verifying product 'Purse' is present in cart
+2026-10-18 17:26:20 [INFO] =================================================
+2026-10-18 17:26:20 [INFO] After Scenario Started
+2026-10-18 17:26:20 [INFO] Scenario Name : Verify user can add different available products to the cart
+2026-10-18 17:26:20 [INFO] =================================================
+2026-10-18 17:26:21 [INFO] Trace Saved
+2026-10-18 17:26:21 [INFO] Browser Closed
+2026-10-18 17:26:21 [INFO] =================================================
+2026-10-18 17:26:21 [INFO] After Scenario Completed
+2026-10-18 17:26:21 [INFO] =================================================
+2026-10-18 17:26:21 [INFO] =================================================
+2026-10-18 17:26:21 [INFO] Before Scenario Started
+2026-10-18 17:26:21 [INFO] Scenario : Verify user can add different available products to the cart
+2026-10-18 17:26:21 [INFO] =================================================
+2026-10-18 17:26:21 [INFO] Execution Type : Local
+2026-10-18 17:26:21 [INFO] Read TestRail : false
+2026-10-18 17:26:21 [INFO] Update TestRail : false
+2026-10-18 17:26:21 [INFO] Update Lambda : false
+2026-10-18 17:26:21 [INFO] Test Case Id : 6002
+2026-10-18 17:26:21 [INFO] Browser : chromium
+2026-10-18 17:26:22 [INFO] Browser launched successfully.
+2026-10-18 17:26:22 [INFO] Tracing Started
+2026-10-18 17:26:22 [INFO] =================================================
+2026-10-18 17:26:22 [INFO] Before Scenario Completed
+2026-10-18 17:26:22 [INFO] =================================================
+2026-10-18 17:26:23 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:26:24 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:26:24 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:26:24 [INFO] Navigating to Products page via header link
+2026-10-18 17:26:24 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:26:27 [INFO] Adding product to cart: Watch
+2026-10-18 17:26:27 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Watch']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:26:27 [INFO] Verifying item added success notification
+2026-10-18 17:26:28 [INFO] Navigating to Cart page
+2026-10-18 17:26:28 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 17:26:30 [INFO] Verifying product 'Watch' is present in cart
+2026-10-18 17:26:30 [INFO] =================================================
+2026-10-18 17:26:30 [INFO] After Scenario Started
+2026-10-18 17:26:30 [INFO] Scenario Name : Verify user can add different available products to the cart
+2026-10-18 17:26:30 [INFO] =================================================
+2026-10-18 17:26:31 [INFO] Trace Saved
+2026-10-18 17:26:31 [INFO] Browser Closed
+2026-10-18 17:26:31 [INFO] =================================================
+2026-10-18 17:26:31 [INFO] After Scenario Completed
+2026-10-18 17:26:31 [INFO] =================================================
+2026-10-18 17:26:31 [INFO] =================================================
+2026-10-18 17:26:31 [INFO] Before Scenario Started
+2026-10-18 17:26:31 [INFO] Scenario : Verify user can add different available products to the cart
+2026-10-18 17:26:31 [INFO] =================================================
+2026-10-18 17:26:31 [INFO] Execution Type : Local
+2026-10-18 17:26:31 [INFO] Read TestRail : false
+2026-10-18 17:26:31 [INFO] Update TestRail : false
+2026-10-18 17:26:31 [INFO] Update Lambda : false
+2026-10-18 17:26:31 [INFO] Test Case Id : 6002
+2026-10-18 17:26:31 [INFO] Browser : chromium
+2026-10-18 17:26:32 [INFO] Browser launched successfully.
+2026-10-18 17:26:32 [INFO] Tracing Started
+2026-10-18 17:26:32 [INFO] =================================================
+2026-10-18 17:26:32 [INFO] Before Scenario Completed
+2026-10-18 17:26:32 [INFO] =================================================
+2026-10-18 17:26:33 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:26:33 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:26:34 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:26:34 [INFO] Navigating to Products page via header link
+2026-10-18 17:26:34 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:26:36 [INFO] Adding product to cart: Mouse
+2026-10-18 17:26:37 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Mouse']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:26:37 [INFO] Verifying item added success notification
+2026-10-18 17:26:37 [INFO] Navigating to Cart page
+2026-10-18 17:26:37 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 17:26:40 [INFO] Verifying product 'Mouse' is present in cart
+2026-10-18 17:26:40 [INFO] =================================================
+2026-10-18 17:26:40 [INFO] After Scenario Started
+2026-10-18 17:26:40 [INFO] Scenario Name : Verify user can add different available products to the cart
+2026-10-18 17:26:40 [INFO] =================================================
+2026-10-18 17:26:41 [INFO] Trace Saved
+2026-10-18 17:26:41 [INFO] Browser Closed
+2026-10-18 17:26:41 [INFO] =================================================
+2026-10-18 17:26:41 [INFO] After Scenario Completed
+2026-10-18 17:26:41 [INFO] =================================================
+2026-10-18 17:26:41 [INFO] =================================================
+2026-10-18 17:26:41 [INFO] Before Scenario Started
+2026-10-18 17:26:41 [INFO] Scenario : Verify user can add multiple different products to the cart
+2026-10-18 17:26:41 [INFO] =================================================
+2026-10-18 17:26:41 [INFO] Execution Type : Local
+2026-10-18 17:26:41 [INFO] Read TestRail : false
+2026-10-18 17:26:41 [INFO] Update TestRail : false
+2026-10-18 17:26:41 [INFO] Update Lambda : false
+2026-10-18 17:26:41 [INFO] Test Case Id : 6003
+2026-10-18 17:26:41 [INFO] Browser : chromium
+2026-10-18 17:26:42 [INFO] Browser launched successfully.
+2026-10-18 17:26:42 [INFO] Tracing Started
+2026-10-18 17:26:42 [INFO] =================================================
+2026-10-18 17:26:42 [INFO] Before Scenario Completed
+2026-10-18 17:26:42 [INFO] =================================================
+2026-10-18 17:26:43 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:26:43 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:26:44 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:26:44 [INFO] Navigating to Products page via header link
+2026-10-18 17:26:44 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:26:47 [INFO] Adding product to cart: iPhone
+2026-10-18 17:26:47 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='iPhone']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:26:47 [INFO] Closing toast notification
+2026-10-18 17:26:47 [INFO] Click -> (//button[contains(text(), 'Close')])[1]
+2026-10-18 17:26:50 [INFO] Adding product to cart: Camera
+2026-10-18 17:26:50 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Camera']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:26:50 [INFO] Verifying item added success notification
+2026-10-18 17:26:50 [INFO] Navigating to Cart page
+2026-10-18 17:26:50 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 17:26:53 [INFO] Verifying product 'iPhone' is present in cart
+2026-10-18 17:26:53 [INFO] Verifying product 'Camera' is present in cart
+2026-10-18 17:26:53 [INFO] =================================================
+2026-10-18 17:26:53 [INFO] After Scenario Started
+2026-10-18 17:26:53 [INFO] Scenario Name : Verify user can add multiple different products to the cart
+2026-10-18 17:26:53 [INFO] =================================================
+2026-10-18 17:26:54 [INFO] Trace Saved
+2026-10-18 17:26:55 [INFO] Browser Closed
+2026-10-18 17:26:55 [INFO] =================================================
+2026-10-18 17:26:55 [INFO] After Scenario Completed
+2026-10-18 17:26:55 [INFO] =================================================
+2026-10-18 17:26:55 [INFO] =================================================
+2026-10-18 17:26:55 [INFO] Before Scenario Started
+2026-10-18 17:26:55 [INFO] Scenario : Verify user can increase product quantity before adding to cart
+2026-10-18 17:26:55 [INFO] =================================================
+2026-10-18 17:26:55 [INFO] Execution Type : Local
+2026-10-18 17:26:55 [INFO] Read TestRail : false
+2026-10-18 17:26:55 [INFO] Update TestRail : false
+2026-10-18 17:26:55 [INFO] Update Lambda : false
+2026-10-18 17:26:55 [INFO] Test Case Id : 6004
+2026-10-18 17:26:55 [INFO] Browser : chromium
+2026-10-18 17:26:56 [INFO] Browser launched successfully.
+2026-10-18 17:26:56 [INFO] Tracing Started
+2026-10-18 17:26:56 [INFO] =================================================
+2026-10-18 17:26:56 [INFO] Before Scenario Completed
+2026-10-18 17:26:56 [INFO] =================================================
+2026-10-18 17:26:57 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:26:57 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:26:57 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:26:57 [INFO] Navigating to Products page via header link
+2026-10-18 17:26:57 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:27:00 [INFO] Increasing quantity for Purse by 2
+2026-10-18 17:27:01 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Purse']]//button[text()='+'])[1]
+2026-10-18 17:27:01 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Purse']]//button[text()='+'])[1]
+2026-10-18 17:27:02 [INFO] Adding product to cart: Purse
+2026-10-18 17:27:02 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Purse']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:27:02 [INFO] Verifying item added success notification
+2026-10-18 17:27:02 [INFO] Navigating to Cart page
+2026-10-18 17:27:02 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 17:27:04 [INFO] Verifying quantity for Purse in cart equals 3
+2026-10-18 17:27:04 [INFO] Reading Text -> (//div[.//h2[normalize-space()='Purse'] or contains(., 'Purse')]//*[contains(text(), 'Qty:')])[1]
+2026-10-18 17:27:04 [INFO] =================================================
+2026-10-18 17:27:04 [INFO] After Scenario Started
+2026-10-18 17:27:04 [INFO] Scenario Name : Verify user can increase product quantity before adding to cart
+2026-10-18 17:27:04 [INFO] =================================================
+2026-10-18 17:27:05 [INFO] Trace Saved
+2026-10-18 17:27:06 [INFO] Browser Closed
+2026-10-18 17:27:06 [INFO] =================================================
+2026-10-18 17:27:06 [INFO] After Scenario Completed
+2026-10-18 17:27:06 [INFO] =================================================
+2026-10-18 17:27:06 [INFO] =================================================
+2026-10-18 17:27:06 [INFO] Before Scenario Started
+2026-10-18 17:27:06 [INFO] Scenario : Verify out of stock products cannot be added to the cart
+2026-10-18 17:27:06 [INFO] =================================================
+2026-10-18 17:27:06 [INFO] Execution Type : Local
+2026-10-18 17:27:06 [INFO] Read TestRail : false
+2026-10-18 17:27:06 [INFO] Update TestRail : false
+2026-10-18 17:27:06 [INFO] Update Lambda : false
+2026-10-18 17:27:06 [INFO] Test Case Id : 6005
+2026-10-18 17:27:06 [INFO] Browser : chromium
+2026-10-18 17:27:07 [INFO] Browser launched successfully.
+2026-10-18 17:27:07 [INFO] Tracing Started
+2026-10-18 17:27:07 [INFO] =================================================
+2026-10-18 17:27:07 [INFO] Before Scenario Completed
+2026-10-18 17:27:07 [INFO] =================================================
+2026-10-18 17:27:08 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:27:08 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:27:09 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:27:09 [INFO] Navigating to Products page via header link
+2026-10-18 17:27:09 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:27:12 [INFO] Adding product to cart: Keyboard
+2026-10-18 17:27:12 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Keyboard']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:27:12 [INFO] Verifying out of stock notification
+2026-10-18 17:27:12 [INFO] =================================================
+2026-10-18 17:27:12 [INFO] After Scenario Started
+2026-10-18 17:27:12 [INFO] Scenario Name : Verify out of stock products cannot be added to the cart
+2026-10-18 17:27:12 [INFO] =================================================
+2026-10-18 17:27:13 [INFO] Trace Saved
+2026-10-18 17:27:14 [INFO] Browser Closed
+2026-10-18 17:27:14 [INFO] =================================================
+2026-10-18 17:27:14 [INFO] After Scenario Completed
+2026-10-18 17:27:14 [INFO] =================================================
+2026-10-18 17:27:14 [INFO] =================================================
+2026-10-18 17:27:14 [INFO] Before Scenario Started
+2026-10-18 17:27:14 [INFO] Scenario : Verify out of stock products cannot be added to the cart
+2026-10-18 17:27:14 [INFO] =================================================
+2026-10-18 17:27:14 [INFO] Execution Type : Local
+2026-10-18 17:27:14 [INFO] Read TestRail : false
+2026-10-18 17:27:14 [INFO] Update TestRail : false
+2026-10-18 17:27:14 [INFO] Update Lambda : false
+2026-10-18 17:27:14 [INFO] Test Case Id : 6005
+2026-10-18 17:27:14 [INFO] Browser : chromium
+2026-10-18 17:27:15 [INFO] Browser launched successfully.
+2026-10-18 17:27:15 [INFO] Tracing Started
+2026-10-18 17:27:15 [INFO] =================================================
+2026-10-18 17:27:15 [INFO] Before Scenario Completed
+2026-10-18 17:27:15 [INFO] =================================================
+2026-10-18 17:27:16 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:27:16 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:27:16 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:27:17 [INFO] Navigating to Products page via header link
+2026-10-18 17:27:17 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:27:19 [INFO] Adding product to cart: Samsung
+2026-10-18 17:27:20 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Samsung']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:27:20 [INFO] Verifying out of stock notification
+2026-10-18 17:27:20 [INFO] =================================================
+2026-10-18 17:27:20 [INFO] After Scenario Started
+2026-10-18 17:27:20 [INFO] Scenario Name : Verify out of stock products cannot be added to the cart
+2026-10-18 17:27:20 [INFO] =================================================
+2026-10-18 17:27:21 [INFO] Trace Saved
+2026-10-18 17:27:22 [INFO] Browser Closed
+2026-10-18 17:27:22 [INFO] =================================================
+2026-10-18 17:27:22 [INFO] After Scenario Completed
+2026-10-18 17:27:22 [INFO] =================================================
+2026-10-18 17:27:22 [INFO] =================================================
+2026-10-18 17:27:22 [INFO] Before Scenario Started
+2026-10-18 17:27:22 [INFO] Scenario : Verify out of stock products cannot be added to the cart
+2026-10-18 17:27:22 [INFO] =================================================
+2026-10-18 17:27:22 [INFO] Execution Type : Local
+2026-10-18 17:27:22 [INFO] Read TestRail : false
+2026-10-18 17:27:22 [INFO] Update TestRail : false
+2026-10-18 17:27:22 [INFO] Update Lambda : false
+2026-10-18 17:27:22 [INFO] Test Case Id : 6005
+2026-10-18 17:27:22 [INFO] Browser : chromium
+2026-10-18 17:27:23 [INFO] Browser launched successfully.
+2026-10-18 17:27:23 [INFO] Tracing Started
+2026-10-18 17:27:23 [INFO] =================================================
+2026-10-18 17:27:23 [INFO] Before Scenario Completed
+2026-10-18 17:27:23 [INFO] =================================================
+2026-10-18 17:27:24 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:27:24 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:27:24 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:27:24 [INFO] Navigating to Products page via header link
+2026-10-18 17:27:24 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:27:27 [INFO] Adding product to cart: Laptop
+2026-10-18 17:27:28 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Laptop']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:27:28 [INFO] Verifying out of stock notification
+2026-10-18 17:27:28 [INFO] =================================================
+2026-10-18 17:27:28 [INFO] After Scenario Started
+2026-10-18 17:27:28 [INFO] Scenario Name : Verify out of stock products cannot be added to the cart
+2026-10-18 17:27:28 [INFO] =================================================
+2026-10-18 17:27:29 [INFO] Trace Saved
+2026-10-18 17:27:29 [INFO] Browser Closed
+2026-10-18 17:27:29 [INFO] =================================================
+2026-10-18 17:27:29 [INFO] After Scenario Completed
+2026-10-18 17:27:29 [INFO] =================================================
+2026-10-18 17:27:29 [INFO] =================================================
+2026-10-18 17:27:29 [INFO] Before Scenario Started
+2026-10-18 17:27:29 [INFO] Scenario : Verify user can remove an item from the cart
+2026-10-18 17:27:29 [INFO] =================================================
+2026-10-18 17:27:29 [INFO] Execution Type : Local
+2026-10-18 17:27:29 [INFO] Read TestRail : false
+2026-10-18 17:27:29 [INFO] Update TestRail : false
+2026-10-18 17:27:29 [INFO] Update Lambda : false
+2026-10-18 17:27:29 [INFO] Test Case Id : 6006
+2026-10-18 17:27:29 [INFO] Browser : chromium
+2026-10-18 17:27:30 [INFO] Browser launched successfully.
+2026-10-18 17:27:30 [INFO] Tracing Started
+2026-10-18 17:27:30 [INFO] =================================================
+2026-10-18 17:27:30 [INFO] Before Scenario Completed
+2026-10-18 17:27:30 [INFO] =================================================
+2026-10-18 17:27:31 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:27:32 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:27:32 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:27:32 [INFO] Navigating to Products page via header link
+2026-10-18 17:27:32 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:27:35 [INFO] Adding product to cart: Watch
+2026-10-18 17:27:35 [INFO] Click -> (//div[contains(@class, 'card-body') and .//h2[normalize-space()='Watch']]//button[contains(text(), 'Add to cart')])[1]
+2026-10-18 17:27:35 [INFO] Navigating to Cart page
+2026-10-18 17:27:35 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 17:27:38 [INFO] Verifying product 'Watch' is present in cart
+2026-10-18 17:27:38 [INFO] Removing product 'Watch' from cart
+2026-10-18 17:27:38 [INFO] Click -> (//div[.//h2[normalize-space()='Watch'] or contains(., 'Watch')]//button[contains(text(), 'Remove')])[1]
+2026-10-18 17:27:39 [INFO] Verifying product 'Watch' is not in cart
+2026-10-18 17:27:41 [INFO] =================================================
+2026-10-18 17:27:41 [INFO] After Scenario Started
+2026-10-18 17:27:41 [INFO] Scenario Name : Verify user can remove an item from the cart
+2026-10-18 17:27:41 [INFO] =================================================
+2026-10-18 17:27:42 [INFO] Trace Saved
+2026-10-18 17:27:42 [INFO] Browser Closed
+2026-10-18 17:27:42 [INFO] =================================================
+2026-10-18 17:27:42 [INFO] After Scenario Completed
+2026-10-18 17:27:42 [INFO] =================================================
+2026-10-18 17:27:42 [INFO] =================================================
+2026-10-18 17:27:42 [INFO] Before Scenario Started
+2026-10-18 17:27:42 [INFO] Scenario : Verify empty cart message and browse navigation
+2026-10-18 17:27:42 [INFO] =================================================
+2026-10-18 17:27:42 [INFO] Execution Type : Local
+2026-10-18 17:27:42 [INFO] Read TestRail : false
+2026-10-18 17:27:42 [INFO] Update TestRail : false
+2026-10-18 17:27:42 [INFO] Update Lambda : false
+2026-10-18 17:27:42 [INFO] Test Case Id : 6007
+2026-10-18 17:27:42 [INFO] Browser : chromium
+2026-10-18 17:27:44 [INFO] Browser launched successfully.
+2026-10-18 17:27:44 [INFO] Tracing Started
+2026-10-18 17:27:44 [INFO] =================================================
+2026-10-18 17:27:44 [INFO] Before Scenario Completed
+2026-10-18 17:27:44 [INFO] =================================================
+2026-10-18 17:27:45 [INFO] Fill -> #username : sagesyntaxacademy
+2026-10-18 17:27:45 [INFO] Fill -> #password : BuildingExcellence@111
+2026-10-18 17:27:46 [INFO] Click -> //button[text()='Sign In']
+2026-10-18 17:27:46 [INFO] Navigating to Products page via header link
+2026-10-18 17:27:46 [INFO] Click -> (//a[contains(@href, '/products')])[1]
+2026-10-18 17:27:49 [INFO] Navigating to Cart page
+2026-10-18 17:27:49 [INFO] Click -> (//a[contains(@href, '/cart')])[1]
+2026-10-18 17:27:49 [INFO] Verifying empty cart message
+2026-10-18 17:27:49 [INFO] Clicking Browse button from empty cart
+2026-10-18 17:27:49 [INFO] Click -> (//button[contains(text(), 'Browse')])[1]
+2026-10-18 17:27:49 [INFO] =================================================
+2026-10-18 17:27:49 [INFO] After Scenario Started
+2026-10-18 17:27:49 [INFO] Scenario Name : Verify empty cart message and browse navigation
+2026-10-18 17:27:49 [INFO] =================================================
+2026-10-18 17:27:50 [INFO] Trace Saved
+2026-10-18 17:27:51 [INFO] Browser Closed
+2026-10-18 17:27:51 [INFO] =================================================
+2026-10-18 17:27:51 [INFO] After Scenario Completed
+2026-10-18 17:27:51 [INFO] =================================================
+2026-10-18 17:25:36 [INFO] ======================================
+2026-10-18 17:25:36 [INFO]  Playwright Enterprise Test Runner
+2026-10-18 17:25:36 [INFO] ======================================
+2026-10-18 17:25:36 [INFO] Environment : qa
+2026-10-18 17:25:36 [INFO] Browser    : chromium
+2026-10-18 17:25:36 [INFO] Parallel   : 1
+2026-10-18 17:25:36 [INFO] Tag        : @C6001 or @C6002 or @C6003 or @C6004 or @C6005 or @C6006 or @C6007
+2026-10-18 17:25:36 [INFO] --------------------------------------
+2026-10-18 17:25:36 [INFO] Command : npx cucumber-js --tags "@C6001 or @C6002 or @C6003 or @C6004 or @C6005 or @C6006 or @C6007" --parallel 1
+2026-10-18 17:25:36 [INFO] ======================================
+2026-10-18 17:25:36 [INFO] ===============In Test runner before ExecSync=======================
