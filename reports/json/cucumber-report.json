@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1078179800
+              "duration": 28774253499
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1261583099
+              "duration": 1484265400
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 656040699
+              "duration": 1502177199
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2796300699
+              "duration": 3058426899
             }
           },
           {
@@ -66,7 +66,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 454804100
+              "duration": 616088000
             }
           },
           {
@@ -79,7 +79,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 87965700
+              "duration": 243133600
             }
           },
           {
@@ -92,7 +92,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2442013399
+              "duration": 1919410600
             }
           },
           {
@@ -105,7 +105,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 71533699
+              "duration": 206687100
             }
           },
           {
@@ -118,7 +118,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 22140199
+              "duration": 186177100
             }
           },
           {
@@ -126,7 +126,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1758111000
+              "duration": 10261521400
             }
           }
         ],
@@ -140,7 +140,7 @@
             "line": 1
           },
           {
-            "name": "@C6001",
+            "name": "@C34",
             "line": 12
           },
           {
@@ -162,7 +162,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1026914899
+              "duration": 22773676599
             }
           },
           {
@@ -175,7 +175,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1138035700
+              "duration": 1179844499
             }
           },
           {
@@ -188,7 +188,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 607984000
+              "duration": 463693400
             }
           },
           {
@@ -201,7 +201,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2786952999
+              "duration": 2975888400
             }
           },
           {
@@ -214,7 +214,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 466920299
+              "duration": 487322599
             }
           },
           {
@@ -227,7 +227,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 111943999
+              "duration": 217429900
             }
           },
           {
@@ -240,7 +240,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2486890600
+              "duration": 2044505000
             }
           },
           {
@@ -253,7 +253,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 61291799
+              "duration": 125608300
             }
           },
           {
@@ -261,7 +261,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1711011300
+              "duration": 5255124299
             }
           }
         ],
@@ -275,7 +275,7 @@
             "line": 1
           },
           {
-            "name": "@C6002",
+            "name": "@C35",
             "line": 20
           }
         ],
@@ -293,7 +293,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 927420200
+              "duration": 27414209600
             }
           },
           {
@@ -306,7 +306,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1055266400
+              "duration": 1001665999
             }
           },
           {
@@ -319,7 +319,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 597872999
+              "duration": 390847500
             }
           },
           {
@@ -332,7 +332,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2720996900
+              "duration": 2891190499
             }
           },
           {
@@ -345,7 +345,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 638926800
+              "duration": 405646699
             }
           },
           {
@@ -358,7 +358,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 56429899
+              "duration": 183334999
             }
           },
           {
@@ -371,7 +371,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2379345799
+              "duration": 2358251300
             }
           },
           {
@@ -384,7 +384,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 18184499
+              "duration": 104552400
             }
           },
           {
@@ -392,7 +392,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1529791599
+              "duration": 6523213199
             }
           }
         ],
@@ -406,7 +406,7 @@
             "line": 1
           },
           {
-            "name": "@C6002",
+            "name": "@C35",
             "line": 20
           }
         ],
@@ -424,7 +424,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1000247100
+              "duration": 24581266299
             }
           },
           {
@@ -437,7 +437,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1195746399
+              "duration": 1064448499
             }
           },
           {
@@ -450,7 +450,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 621526799
+              "duration": 389700500
             }
           },
           {
@@ -463,7 +463,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2709925999
+              "duration": 2802273500
             }
           },
           {
@@ -476,7 +476,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 569861400
+              "duration": 518090999
             }
           },
           {
@@ -489,7 +489,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 74488499
+              "duration": 273722500
             }
           },
           {
@@ -502,7 +502,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2429085300
+              "duration": 1956207200
             }
           },
           {
@@ -515,7 +515,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 56266099
+              "duration": 171776700
             }
           },
           {
@@ -523,7 +523,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1717380700
+              "duration": 6328234300
             }
           }
         ],
@@ -537,7 +537,7 @@
             "line": 1
           },
           {
-            "name": "@C6002",
+            "name": "@C35",
             "line": 20
           }
         ],
@@ -555,7 +555,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1005228199
+              "duration": 17099994800
             }
           },
           {
@@ -568,7 +568,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1104971199
+              "duration": 1121391499
             }
           },
           {
@@ -581,7 +581,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 555540799
+              "duration": 440500799
             }
           },
           {
@@ -594,7 +594,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2921966500
+              "duration": 2925491000
             }
           },
           {
@@ -607,7 +607,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 541028299
+              "duration": 775750800
             }
           },
           {
@@ -620,7 +620,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 386017999
+              "duration": 187987400
             }
           },
           {
@@ -633,7 +633,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1876139400
+              "duration": 1998623600
             }
           },
           {
@@ -646,7 +646,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 30120799
+              "duration": 156291800
             }
           },
           {
@@ -654,7 +654,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1362996400
+              "duration": 4914615600
             }
           }
         ],
@@ -668,7 +668,7 @@
             "line": 1
           },
           {
-            "name": "@C6002",
+            "name": "@C35",
             "line": 20
           }
         ],
@@ -686,7 +686,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 997724200
+              "duration": 27673700400
             }
           },
           {
@@ -699,7 +699,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1089102700
+              "duration": 1469054899
             }
           },
           {
@@ -712,7 +712,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 607774199
+              "duration": 711175100
             }
           },
           {
@@ -725,7 +725,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2749831599
+              "duration": 3155041100
             }
           },
           {
@@ -738,7 +738,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 457001900
+              "duration": 652783700
             }
           },
           {
@@ -751,7 +751,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 180789300
+              "duration": 216135700
             }
           },
           {
@@ -764,7 +764,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2434007799
+              "duration": 2054853899
             }
           },
           {
@@ -777,7 +777,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 61996399
+              "duration": 212413299
             }
           },
           {
@@ -785,7 +785,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1498674999
+              "duration": 8198725299
             }
           }
         ],
@@ -799,7 +799,7 @@
             "line": 1
           },
           {
-            "name": "@C6002",
+            "name": "@C35",
             "line": 20
           }
         ],
@@ -817,7 +817,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1008383900
+              "duration": 27025376000
             }
           },
           {
@@ -830,7 +830,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1095621699
+              "duration": 1246073700
             }
           },
           {
@@ -843,7 +843,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 594567200
+              "duration": 527836099
             }
           },
           {
@@ -856,7 +856,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2776497600
+              "duration": 3047572400
             }
           },
           {
@@ -869,7 +869,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 460002099
+              "duration": 601865599
             }
           },
           {
@@ -882,7 +882,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2795721299
+              "duration": 2617506300
             }
           },
           {
@@ -895,7 +895,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 371473399
+              "duration": 528787699
             }
           },
           {
@@ -908,7 +908,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 79032999
+              "duration": 208716200
             }
           },
           {
@@ -921,7 +921,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2348063200
+              "duration": 1791856400
             }
           },
           {
@@ -934,7 +934,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 55879600
+              "duration": 195330000
             }
           },
           {
@@ -947,7 +947,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 18457299
+              "duration": 84498800
             }
           },
           {
@@ -955,7 +955,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1908742199
+              "duration": 6427281499
             }
           }
         ],
@@ -969,7 +969,7 @@
             "line": 1
           },
           {
-            "name": "@C6003",
+            "name": "@C36",
             "line": 35
           }
         ],
@@ -987,7 +987,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 993912000
+              "duration": 28334580999
             }
           },
           {
@@ -1000,7 +1000,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1207330900
+              "duration": 1602244200
             }
           },
           {
@@ -1013,7 +1013,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 586262700
+              "duration": 772114599
             }
           },
           {
@@ -1026,7 +1026,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2760836400
+              "duration": 2909157600
             }
           },
           {
@@ -1039,7 +1039,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1507423699
+              "duration": 1686940599
             }
           },
           {
@@ -1052,7 +1052,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 390499800
+              "duration": 523014000
             }
           },
           {
@@ -1065,7 +1065,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 32797099
+              "duration": 320981199
             }
           },
           {
@@ -1078,7 +1078,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2232751699
+              "duration": 2124930499
             }
           },
           {
@@ -1091,7 +1091,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 39700700
+              "duration": 139095099
             }
           },
           {
@@ -1099,7 +1099,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1685817500
+              "duration": 6952351099
             }
           }
         ],
@@ -1113,7 +1113,7 @@
             "line": 1
           },
           {
-            "name": "@C6004",
+            "name": "@C37",
             "line": 45
           }
         ],
@@ -1131,7 +1131,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1070882400
+              "duration": 41165128299
             }
           },
           {
@@ -1144,7 +1144,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1112658800
+              "duration": 1277845099
             }
           },
           {
@@ -1157,7 +1157,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 577818200
+              "duration": 500078800
             }
           },
           {
@@ -1170,7 +1170,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2841282399
+              "duration": 3033882899
             }
           },
           {
@@ -1183,7 +1183,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 481942999
+              "duration": 547093600
             }
           },
           {
@@ -1196,7 +1196,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 71578800
+              "duration": 199363000
             }
           },
           {
@@ -1204,7 +1204,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1543548100
+              "duration": 4468384399
             }
           }
         ],
@@ -1218,7 +1218,7 @@
             "line": 1
           },
           {
-            "name": "@C6005",
+            "name": "@C38",
             "line": 53
           }
         ],
@@ -1236,7 +1236,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1055549599
+              "duration": 23730659500
             }
           },
           {
@@ -1249,7 +1249,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1109205800
+              "duration": 1497811999
             }
           },
           {
@@ -1262,7 +1262,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 607323499
+              "duration": 795166100
             }
           },
           {
@@ -1275,7 +1275,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2703498400
+              "duration": 3004850299
             }
           },
           {
@@ -1288,7 +1288,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 820554799
+              "duration": 951830000
             }
           },
           {
@@ -1301,7 +1301,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 186842000
+              "duration": 397684499
             }
           },
           {
@@ -1309,7 +1309,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1551595100
+              "duration": 6323393500
             }
           }
         ],
@@ -1323,7 +1323,7 @@
             "line": 1
           },
           {
-            "name": "@C6005",
+            "name": "@C38",
             "line": 53
           }
         ],
@@ -1341,7 +1341,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1015327799
+              "duration": 20591146900
             }
           },
           {
@@ -1354,7 +1354,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1093878100
+              "duration": 1380434400
             }
           },
           {
@@ -1367,7 +1367,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 571325600
+              "duration": 801376899
             }
           },
           {
@@ -1380,7 +1380,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2816614500
+              "duration": 3046345600
             }
           },
           {
@@ -1393,7 +1393,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 401537399
+              "duration": 963381700
             }
           },
           {
@@ -1406,7 +1406,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 42547000
+              "duration": 406075499
             }
           },
           {
@@ -1414,7 +1414,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1619234299
+              "duration": 5736085100
             }
           }
         ],
@@ -1428,7 +1428,7 @@
             "line": 1
           },
           {
-            "name": "@C6005",
+            "name": "@C38",
             "line": 53
           }
         ],
@@ -1446,7 +1446,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1005207999
+              "duration": 25337115600
             }
           },
           {
@@ -1459,7 +1459,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1073416700
+              "duration": 1241817700
             }
           },
           {
@@ -1472,7 +1472,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 607328800
+              "duration": 383765599
             }
           },
           {
@@ -1485,7 +1485,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2765239199
+              "duration": 2843443900
             }
           },
           {
@@ -1498,7 +1498,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 454494000
+              "duration": 593312700
             }
           },
           {
@@ -1511,7 +1511,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2519236699
+              "duration": 2430129199
             }
           },
           {
@@ -1524,7 +1524,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 131515799
+              "duration": 110744699
             }
           },
           {
@@ -1537,7 +1537,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 875754800
+              "duration": 765093900
             }
           },
           {
@@ -1550,7 +1550,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1848688799
+              "duration": 1863258800
             }
           },
           {
@@ -1558,7 +1558,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1814980700
+              "duration": 5943528900
             }
           }
         ],
@@ -1572,7 +1572,7 @@
             "line": 1
           },
           {
-            "name": "@C6006",
+            "name": "@C39",
             "line": 64
           }
         ],
@@ -1590,7 +1590,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1196197199
+              "duration": 24707525400
             }
           },
           {
@@ -1603,7 +1603,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1558900699
+              "duration": 1573256300
             }
           },
           {
@@ -1616,7 +1616,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 600810899
+              "duration": 823633300
             }
           },
           {
@@ -1629,7 +1629,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2840906799
+              "duration": 2919601099
             }
           },
           {
@@ -1642,7 +1642,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 454627899
+              "duration": 417489500
             }
           },
           {
@@ -1655,7 +1655,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 26605200
+              "duration": 233590700
             }
           },
           {
@@ -1668,7 +1668,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 182490699
+              "duration": 290652199
             }
           },
           {
@@ -1681,7 +1681,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 38816599
+              "duration": 110052700
             }
           },
           {
@@ -1689,7 +1689,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 1416776400
+              "duration": 5642362599
             }
           }
         ],
@@ -1703,7 +1703,7 @@
             "line": 1
           },
           {
-            "name": "@C6007",
+            "name": "@C40",
             "line": 72
           }
         ],
@@ -1725,5 +1725,1309 @@
       }
     ],
     "uri": "features\\addtocart.feature"
+  },
+  {
+    "description": "  As an authenticated user\n  I want to access the application dashboard\n  So that I can view available practice modules, navigate the application, and logout securely",
+    "elements": [
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-successful-redirection-to-dashboard-after-login",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "Verify successful redirection to dashboard after login",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 24044102299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1478562999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 804830200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "the user should be on the dashboard page",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2531754799
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "the login success notification should be visible",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 303818399
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 4194748999
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C31",
+            "line": 11
+          },
+          {
+            "name": "@Smoke",
+            "line": 11
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-key-practice-modules-are-displayed-on-dashboard",
+        "keyword": "Scenario Outline",
+        "line": 22,
+        "name": "Verify key practice modules are displayed on dashboard",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 20545133600
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1072699499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 415035999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "the practice module \"Basic Elements\" should be visible on the dashboard",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2720666300
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3438490600
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C32",
+            "line": 16
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-key-practice-modules-are-displayed-on-dashboard",
+        "keyword": "Scenario Outline",
+        "line": 23,
+        "name": "Verify key practice modules are displayed on dashboard",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 23796972599
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1123688399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 419951200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "the practice module \"Forms\" should be visible on the dashboard",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2933446099
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3448660400
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C32",
+            "line": 16
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-key-practice-modules-are-displayed-on-dashboard",
+        "keyword": "Scenario Outline",
+        "line": 24,
+        "name": "Verify key practice modules are displayed on dashboard",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 22281816999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1422338900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 784640299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "the practice module \"Alerts & Frames\" should be visible on the dashboard",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2876806499
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 4393353200
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C32",
+            "line": 16
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-key-practice-modules-are-displayed-on-dashboard",
+        "keyword": "Scenario Outline",
+        "line": 25,
+        "name": "Verify key practice modules are displayed on dashboard",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 24795065500
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1358681600
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 454778500
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "the practice module \"Widgets\" should be visible on the dashboard",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2703427799
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3081011799
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C32",
+            "line": 16
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-key-practice-modules-are-displayed-on-dashboard",
+        "keyword": "Scenario Outline",
+        "line": 26,
+        "name": "Verify key practice modules are displayed on dashboard",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 26900274300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1018107599
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 412495600
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "the practice module \"User Interactions\" should be visible on the dashboard",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2665891100
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3136410900
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C32",
+            "line": 16
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-key-practice-modules-are-displayed-on-dashboard",
+        "keyword": "Scenario Outline",
+        "line": 27,
+        "name": "Verify key practice modules are displayed on dashboard",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 28504439499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1415260499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 798321100
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "the practice module \"Web Tables\" should be visible on the dashboard",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2920766400
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 4896586999
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C32",
+            "line": 16
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-key-practice-modules-are-displayed-on-dashboard",
+        "keyword": "Scenario Outline",
+        "line": 28,
+        "name": "Verify key practice modules are displayed on dashboard",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 27901566800
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1486695699
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 818623200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "the practice module \"File Handling\" should be visible on the dashboard",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2976647100
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 4270911399
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C32",
+            "line": 16
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-key-practice-modules-are-displayed-on-dashboard",
+        "keyword": "Scenario Outline",
+        "line": 29,
+        "name": "Verify key practice modules are displayed on dashboard",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 27233873900
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1545502800
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 778154300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "the practice module \"Authentication\" should be visible on the dashboard",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2865427700
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 4330914200
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C32",
+            "line": 16
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-key-practice-modules-are-displayed-on-dashboard",
+        "keyword": "Scenario Outline",
+        "line": 30,
+        "name": "Verify key practice modules are displayed on dashboard",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 24079114300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1032468700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 430892299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "the practice module \"API Testing\" should be visible on the dashboard",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2543876900
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 2996746500
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C32",
+            "line": 16
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-key-practice-modules-are-displayed-on-dashboard",
+        "keyword": "Scenario Outline",
+        "line": 31,
+        "name": "Verify key practice modules are displayed on dashboard",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 20642795400
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1162064799
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 421017700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "the practice module \"Broken Links\" should be visible on the dashboard",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2665827399
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 2916545500
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C32",
+            "line": 16
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "dashboard-functionality-and-navigation;verify-user-can-logout-from-the-dashboard",
+        "keyword": "Scenario",
+        "line": 34,
+        "name": "Verify user can logout from the dashboard",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 21484339700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1063324599
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 423711800
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 35,
+            "name": "the user clicks on the logout button",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2686257199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 36,
+            "name": "the user should be redirected to the login page",
+            "match": {
+              "location": "features\\stepdefinitions\\DashboardSteps.js:34"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2217304800
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3680245100
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Dashboard",
+            "line": 1
+          },
+          {
+            "name": "@Regression",
+            "line": 1
+          },
+          {
+            "name": "@C33",
+            "line": 33
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "dashboard-functionality-and-navigation",
+    "line": 2,
+    "keyword": "Feature",
+    "name": "Dashboard Functionality and Navigation",
+    "tags": [
+      {
+        "name": "@Dashboard",
+        "line": 1
+      },
+      {
+        "name": "@Regression",
+        "line": 1
+      }
+    ],
+    "uri": "features\\dashboard.feature"
+  },
+  {
+    "description": "              As a registered user\n              I want to log in to the application, So that I can access the dashboard",
+    "elements": [
+      {
+        "description": "",
+        "id": "verify-the-login-functionality-of-the-application;verify-user-login-with-valid-credentials",
+        "keyword": "Scenario Outline",
+        "line": 13,
+        "name": "Verify user login with valid credentials",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 22914397899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "the user launches the application",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1356104399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 10,
+            "name": "the user logs in with valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\" credentials",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 808039199
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3749923999
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@C29",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "verify-the-login-functionality-of-the-application;verify-the-login-functionality-of-the-application-using-valid-credential",
+        "keyword": "Scenario Outline",
+        "line": 23,
+        "name": "Verify the login functionality of the application using valid credential",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 26931371699
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 17,
+            "name": "the user launches the application \"https://automationpracticehub.com/\"",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:33"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1153215399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 18,
+            "name": "the user enters the valid username \"sagesyntaxacademy\" and password \"BuildingExcellence@111\"",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:38"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 293147200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 19,
+            "name": "the user clicks on login button",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:43"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 181424499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 20,
+            "name": "the user should be redirected to the HomePage \"https://automationpracticehub.com/home\"",
+            "match": {
+              "location": "features\\stepdefinitions\\Steps.js:48"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2492741999
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3129788600
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@C30",
+            "line": 15
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "verify-the-login-functionality-of-the-application",
+    "line": 2,
+    "keyword": "Feature",
+    "name": "Verify the Login Functionality of the Application",
+    "tags": [],
+    "uri": "features\\login.feature"
+  },
+  {
+    "description": "  As a tester\n  I want to verify the Playwright official documentation website\n  So that I can ensure the documentation is accessible and accurate",
+    "elements": [
+      {
+        "description": "",
+        "id": "playwright-documentation-verification;verify-playwright-official-documentation-website-page-title",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Verify Playwright official documentation website page title",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 24630498200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 9,
+            "name": "the user navigates to \"https://playwright.dev/\"",
+            "match": {
+              "location": "features\\stepdefinitions\\PlaywrightDocsSteps.js:4"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 751727400
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "the page title should contain \"Playwright\"",
+            "match": {
+              "location": "features\\stepdefinitions\\PlaywrightDocsSteps.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 130560899
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3058846000
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PlaywrightDocs",
+            "line": 1
+          },
+          {
+            "name": "@C41",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "playwright-documentation-verification;verify-'get-started'-link-redirects-to-installation-documentation",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "Verify 'Get started' link redirects to Installation documentation",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 25104869200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "the user navigates to \"https://playwright.dev/\"",
+            "match": {
+              "location": "features\\stepdefinitions\\PlaywrightDocsSteps.js:4"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 844182099
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "the user clicks on the \"Get started\" link",
+            "match": {
+              "location": "features\\stepdefinitions\\PlaywrightDocsSteps.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 279845199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "the heading \"Installation\" should be visible",
+            "match": {
+              "location": "features\\stepdefinitions\\PlaywrightDocsSteps.js:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1187618200
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 4633257200
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@PlaywrightDocs",
+            "line": 1
+          },
+          {
+            "name": "@C42",
+            "line": 12
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "playwright-documentation-verification",
+    "line": 2,
+    "keyword": "Feature",
+    "name": "Playwright Documentation Verification",
+    "tags": [
+      {
+        "name": "@PlaywrightDocs",
+        "line": 1
+      }
+    ],
+    "uri": "features\\playwrightdocs.feature"
   }
 ]

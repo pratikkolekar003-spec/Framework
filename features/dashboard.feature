@@ -8,12 +8,12 @@ Feature: Dashboard Functionality and Navigation
     Given the user launches the application
     And the user logs in with valid username "sagesyntaxacademy" and password "BuildingExcellence@111" credentials
 
-  @C5347 @Smoke
+  @C31 @Smoke
   Scenario: Verify successful redirection to dashboard after login
     Then the user should be on the dashboard page
     And the login success notification should be visible
 
-  @C5348
+  @C32
   Scenario Outline: Verify key practice modules are displayed on dashboard
     Then the practice module "<moduleName>" should be visible on the dashboard
 
@@ -30,7 +30,7 @@ Feature: Dashboard Functionality and Navigation
       | API Testing      |
       | Broken Links     |
 
-  @C5349
+  @C33
   Scenario: Verify user can logout from the dashboard
     When the user clicks on the logout button
     Then the user should be redirected to the login page

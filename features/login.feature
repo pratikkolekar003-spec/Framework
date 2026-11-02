@@ -4,15 +4,15 @@ Feature: Verify the Login Functionality of the Application
               I want to log in to the application, So that I can access the dashboard
 
 
-        @C5947
-        Scenario Outline: title
+        @C29
+        Scenario Outline: Verify user login with valid credentials
             Given the user launches the application
              When the user logs in with valid username "<username>" and password "<password>" credentials
         Examples:
                   | username          | password               |
                   | sagesyntaxacademy | BuildingExcellence@111 |
 
-        @C5948
+        @C30
         Scenario Outline: Verify the login functionality of the application using valid credential
             Given the user launches the application "<URL>"
             Given the user enters the valid username "<username>" and password "<password>"
